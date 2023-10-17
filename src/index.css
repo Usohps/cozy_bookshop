@@ -6,7 +6,9 @@
 .animation {
     animation: animate 0.5s ease-in-out;
   }
-  
+  .animateSearch{
+    animation: animatesearch 0.5s ease-in-out;
+  }
   @keyframes animate {
     from {
       opacity: 0;
@@ -16,5 +18,16 @@
     to {
       opacity: 1;
       transform: translateX(0);
+    }
+  }
+  @keyframes animatesearch {
+    from {
+      opacity: 0;
+      transform: translateY(3rem);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
     }
   }
