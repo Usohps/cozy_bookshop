@@ -35,8 +35,47 @@ const CartContextProvider = (props)=>{
         const filteredCart = cart.filter((item, i) => i !== index);
         setCart([...filteredCart])
     }
+    //To increase numbers of cart items
+
+    const increaseBookQuantity = (id) => {
+        const bookIndex = cart.findIndex(item => parseInt(item.id) === parseInt(id));
+        if (bookIndex < 0) {
+            return;
+        }
+        const book = cart.find((item, index) => parseInt(id) === item.id);
+        if(book.available_copies > book.quantity){
+            book.quantity++
+            book.total += book.price
+            setCart([...cart]);
+        }
+        return;
+
+    }
+    //To reduce quantity of cart item
+    const reduceBookQuantity = (id)=>{
+        const bookIndex = cart.findIndex(((item,index)=> parseInt(item.id)=== parseInt(id)))
+        if(bookIndex < 0){
+            return;
+        }
+        const book = cart.find((item, index) => parseInt(id) === item.id);
+        book.quantity--
+        book.total -= book.price
+        if(book.quantity === 0){
+            return removeFromCart(bookIndex)
+        }
+        setCart([...cart]);
+        return;
+
+    }
+    //Total cost of cat items
+    const getTotalCost = () => {
+        return cart.reduce((a, b) => {
+            return { total: a.total + b.total };
+        });
+    }
+
     return(
-        <CartContext.Provider value={{cart,setCart,cartIsOpen,toggleCart,addToCart,removeFromCart}}>
+        <CartContext.Provider value={{cart,setCart, getTotalCost,cartIsOpen,increaseBookQuantity, reduceBookQuantity,toggleCart,addToCart,removeFromCart}}>
             {props.children}
         </CartContext.Provider>
     )

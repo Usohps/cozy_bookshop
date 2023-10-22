@@ -2,13 +2,13 @@ import { Rating } from "@mui/material";
 import { MdOutlineGroup } from "react-icons/md";
 import { VscHeart } from "react-icons/vsc";
 
-function FeaturedBooks({book}) {
+function FeaturedBooks({book,bookId}) {
   return (
     <div>
         <div className="w-full h-64 border relative">
             <img src={book.image_url} className="h-full w-screen object-cover" alt="" />
         </div>
-        <div className=" text-white opacity-0 h-full w-full text-center bg-black hover:h-full hover:opacity-[0.7] duration-500 border flex flex-col items-center justify-center absolute top-0 left-0 text-sm ">
+        <div key={bookId} className=" text-white opacity-0 h-full w-full text-center bg-black hover:h-full hover:opacity-[0.7] duration-500 border flex flex-col items-center justify-center absolute top-0 left-0 text-sm ">
           <h4 className="">Available</h4>
           <h1>{book.title}</h1>
           <p className="font-semibold">

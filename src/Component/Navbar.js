@@ -38,11 +38,11 @@ function Navbar() {
             placeholder="Search books, genres,authors, etc."
             className="w-[30rem] border p-2 outline-none px-4 rounded-tl rounded-bl"
           />
-          <div className="border p-2 bg-slate-100">
+          <div className="border cursor-pointer p-2 bg-slate-100">
             <BiSearch size={24} />
           </div>
         </div>
-        <div onClick={toggleSearch} className="border p-2 md:hidden bg-slate-100">
+        <div onClick={toggleSearch} className="border cursor-pointer p-2 md:hidden bg-slate-100">
           <BiSearch size={24} />
         </div>
         <div className="w-32 p-2 flex items-center justify-between">

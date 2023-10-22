@@ -40,7 +40,7 @@ function Featured({book}) {
               return (
                 <div key={book.id} className="w-32 border">
                   <SwiperSlide className="my-12">
-                    <FeaturedBooks book={book} key={book.id} />
+                    <FeaturedBooks book={book} bookId={book.id} />
                   </SwiperSlide>
                 </div>
               );

@@ -17,20 +17,14 @@ function Homepage() {
   const getBooks = async () => {
     getAllBooks();
     setTimeout(() => {
-      //   setLoading(false);
     }, 2000);
   };
-  // const [showCart,setShowCart]= useState(false)
   return (
     <>
     {cartIsOpen && <Cart />}
     <div>
       <Featured book={books} />
       <Books book={books} />
-      {/* <Navbar setShowCart={setShowCart}/> */}
-      {/* <Featured/>
-      <Books/>
-      {showCart  && <Cart setShowCart={setShowCart}/>} */}
     </div>
     </>
   );

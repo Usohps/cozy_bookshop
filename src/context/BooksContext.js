@@ -20,13 +20,13 @@ const BooksContextProvider = (props) => {
     if (searchTerm === "" || searchTerm.length < 2) {
       return setSearchedBooks([]);
     }
-    const searchedBooks = books.filter((book) => {
+    const searchBooks = books.filter((book) => {
       return (
         book.title.toLowerCase().match(searchTerm.toLowerCase()) ||
         book.authors[0].name.toLowerCase().match(searchTerm.toLowerCase())
       );
     });
-    setSearchedBooks([...searchedBooks]);
+    setSearchedBooks([...searchBooks]);
   };
   return (
     <BooksContext.Provider value={{ getSingleBook, books, getAllBooks,search,searchedBooks,query }}>
