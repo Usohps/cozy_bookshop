@@ -19,17 +19,27 @@ const BooksContextProvider = (props) => {
     setQuery(searchTerm);
     if (searchTerm === "" || searchTerm.length < 2) {
       return setSearchedBooks([]);
+    } else {
+      const searchBooks = books.filter((book) => {
+        return (
+          book.title.toLowerCase().match(searchTerm.toLowerCase()) ||
+          book.authors[0].name.toLowerCase().match(searchTerm.toLowerCase())
+        );
+      });
+      setSearchedBooks([...searchBooks]);
     }
-    const searchBooks = books.filter((book) => {
-      return (
-        book.title.toLowerCase().match(searchTerm.toLowerCase()) ||
-        book.authors[0].name.toLowerCase().match(searchTerm.toLowerCase())
-      );
-    });
-    setSearchedBooks([...searchBooks]);
   };
   return (
-    <BooksContext.Provider value={{ getSingleBook, books, getAllBooks,search,searchedBooks,query }}>
+    <BooksContext.Provider
+      value={{
+        getSingleBook,
+        books,
+        getAllBooks,
+        search,
+        searchedBooks,
+        query,
+      }}
+    >
       {props.children}
     </BooksContext.Provider>
   );

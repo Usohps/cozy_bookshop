@@ -6,22 +6,24 @@ import Homepage from "./pages/Homepage";
 import BooksContextProvider from "./context/BooksContext";
 import CartContextProvider from "./context/CartContext";
 // import { useState } from "react";
-// import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import SearchPage from "./pages/SearchPage";
+import DetailsPage from "./pages/DetailsPage";
 function App() {
   return (
     <div>
-      {/* <Router> */}
+      <Router>
       <CartContextProvider>
         <BooksContextProvider>
           <Navbar />
-          {/* <Switch> */}
-          {/* <Route exact path="/"> */}
-          <Homepage />
-          {/* </Route> */}
-          {/* </Switch> */}
+          <Routes>
+          <Route path='/'element={<Homepage/>}/>
+          <Route path='/search'element={<SearchPage/>}/>
+          <Route path='/books/:bookId'element={<DetailsPage/>}/>
+          </Routes>
         </BooksContextProvider>
       </CartContextProvider>
-      {/* </Router> */}
+      </Router>
     </div>
   );
 }

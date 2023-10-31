@@ -7,7 +7,7 @@ import CartItem from "./CartItem";
 import { CartContext } from "../../context/CartContext";
 // import { BooksContext } from "../../context/BooksContext";
 function Cart() {
-  const { toggleCart, cart, getTotalCost } = useContext(CartContext);
+  const { toggleCart, cart, getTotalCost,emptyCart } = useContext(CartContext);
   // const {books}= useContext(BooksContext)
   return (
     <>
@@ -22,12 +22,14 @@ function Cart() {
               <p className="pl-2">Back</p>
             </button>
           </div>
+            {cart.length > 1 &&
           <div className="w-32">
-            <button className="flex items-center">
-              <p className="pr-2">Your cart</p>
+            <button onClick={emptyCart} className="flex items-center" >
+              <p className="pr-2">Empty cart</p>
               {<BsCart2 size={25} />}
             </button>
           </div>
+            }
         </div>
         <div className="mt-[100px]">
           {cart.length > 0 && (

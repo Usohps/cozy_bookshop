@@ -5,9 +5,9 @@ function CartItem({book,index}) {
   const {removeFromCart,increaseBookQuantity,reduceBookQuantity}= useContext(CartContext)
   return (
     <div className='flex my-4 border items-center justify-around'>
-        {/* <div className='w-[100px] h-[100px] border'>
-            <img src={book.image_url} className="w-[100px] h-[100px]" alt="" />
-        </div> */}
+        <div className='w-[100px] h-[100px] border'>
+            <img src={book.image_url} className="w-[100px] h-[100px]" alt="img" />
+        </div>
         <div>
             <h1>{book.title}</h1>
             {/* <p>
