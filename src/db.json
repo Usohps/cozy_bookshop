@@ -1,5 +1,5 @@
 [
-    {
+  {
     "id": 11,
     "title": "The Innovator's Dilemma",
     "subtitle": "When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)",
@@ -20,67 +20,67 @@
     "updated_at": "2021-01-28T17:02:54.735Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611770304/feec/the-innovators-dilemma_ap1zo4.jpg",
     "authors": [
-    {
-    "id": 12,
-    "name": "Clayton M. Christensen",
-    "history": "Clayton Magleby Christensen was an American academic and business consultant who developed the theory of \"disruptive innovation\", which has been called the most influential business idea of the early 21st century",
-    "rating": null,
-    "book": 11,
-    "published_at": "2021-01-28T09:33:37.292Z",
-    "created_at": "2021-01-27T18:04:10.237Z",
-    "updated_at": "2021-01-28T11:26:02.468Z"
-    }
+      {
+        "id": 12,
+        "name": "Clayton M. Christensen",
+        "history": "Clayton Magleby Christensen was an American academic and business consultant who developed the theory of \"disruptive innovation\", which has been called the most influential business idea of the early 21st century",
+        "rating": null,
+        "book": 11,
+        "published_at": "2021-01-28T09:33:37.292Z",
+        "created_at": "2021-01-27T18:04:10.237Z",
+        "updated_at": "2021-01-28T11:26:02.468Z"
+      }
     ],
     "tags": [
-    {
-    "id": 25,
-    "name": " Entrepreneurship",
-    "published_at": "2021-01-28T16:39:02.166Z",
-    "created_at": "2021-01-28T16:39:00.309Z",
-    "updated_at": "2021-01-28T16:39:02.183Z"
-    },
-    {
-    "id": 8,
-    "name": "Management",
-    "published_at": "2021-01-28T16:31:43.955Z",
-    "created_at": "2021-01-28T16:31:42.317Z",
-    "updated_at": "2021-01-28T16:31:43.985Z"
-    },
-    {
-    "id": 10,
-    "name": "Technology",
-    "published_at": "2021-01-28T16:32:08.119Z",
-    "created_at": "2021-01-28T16:32:06.592Z",
-    "updated_at": "2021-01-28T16:32:08.141Z"
-    },
-    {
-    "id": 7,
-    "name": "Leadership",
-    "published_at": "2021-01-28T16:31:31.470Z",
-    "created_at": "2021-01-28T16:31:29.983Z",
-    "updated_at": "2021-01-28T16:31:31.500Z"
-    }
+      {
+        "id": 25,
+        "name": " Entrepreneurship",
+        "published_at": "2021-01-28T16:39:02.166Z",
+        "created_at": "2021-01-28T16:39:00.309Z",
+        "updated_at": "2021-01-28T16:39:02.183Z"
+      },
+      {
+        "id": 8,
+        "name": "Management",
+        "published_at": "2021-01-28T16:31:43.955Z",
+        "created_at": "2021-01-28T16:31:42.317Z",
+        "updated_at": "2021-01-28T16:31:43.985Z"
+      },
+      {
+        "id": 10,
+        "name": "Technology",
+        "published_at": "2021-01-28T16:32:08.119Z",
+        "created_at": "2021-01-28T16:32:06.592Z",
+        "updated_at": "2021-01-28T16:32:08.141Z"
+      },
+      {
+        "id": 7,
+        "name": "Leadership",
+        "published_at": "2021-01-28T16:31:31.470Z",
+        "created_at": "2021-01-28T16:31:29.983Z",
+        "updated_at": "2021-01-28T16:31:31.500Z"
+      }
     ],
     "genres": [
-    {
-    "id": 7,
-    "name": "Business",
-    "published_at": "2021-01-28T16:29:24.460Z",
-    "created_at": "2021-01-28T16:29:22.839Z",
-    "updated_at": "2021-01-28T16:29:24.489Z"
-    },
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    }
+      {
+        "id": 7,
+        "name": "Business",
+        "published_at": "2021-01-28T16:29:24.460Z",
+        "created_at": "2021-01-28T16:29:22.839Z",
+        "updated_at": "2021-01-28T16:29:24.489Z"
+      },
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 5,
-    "title": " The Effective Engineer",
+    "title": "The Effective Engineer",
     "subtitle": "How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact",
     "publisher": "Effective Bookshelf",
     "release_date": "2015-03-18T23:00:00.000Z",
@@ -99,65 +99,65 @@
     "updated_at": "2021-01-28T16:59:23.482Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611741483/feec/the-effective-engineer-cover_bgj7u4.jpg",
     "authors": [
-    {
-    "id": 6,
-    "name": "Edmond Lau",
-    "history": "For the past decade, Edmond Lau has worked as a software engineer in some of the top technology companies in Silicon Valley, including Google, Ooyala, Quora, and Quip. He's passionate about building great engineering teams, and he's interviewed over 500+ engineering candidates throughout his career as well as spoken to teams across the country on how to build great engineering cultures. At Quora, he built out the onboarding and mentoring programs used to train dozens of new engineering hires. His engineering and career advice has been featured on Forbes, Time, Slate, Inc., and Fortune. He's also guest lectured at both MIT and Stanford on software design. He holds a Bachelor's and Master's in Computer Science from MIT.",
-    "rating": null,
-    "book": 5,
-    "published_at": "2021-01-28T09:34:05.573Z",
-    "created_at": "2021-01-27T09:52:34.613Z",
-    "updated_at": "2021-01-28T11:15:27.353Z"
-    }
+      {
+        "id": 6,
+        "name": "Edmond Lau",
+        "history": "For the past decade, Edmond Lau has worked as a software engineer in some of the top technology companies in Silicon Valley, including Google, Ooyala, Quora, and Quip. He's passionate about building great engineering teams, and he's interviewed over 500+ engineering candidates throughout his career as well as spoken to teams across the country on how to build great engineering cultures. At Quora, he built out the onboarding and mentoring programs used to train dozens of new engineering hires. His engineering and career advice has been featured on Forbes, Time, Slate, Inc., and Fortune. He's also guest lectured at both MIT and Stanford on software design. He holds a Bachelor's and Master's in Computer Science from MIT.",
+        "rating": null,
+        "book": 5,
+        "published_at": "2021-01-28T09:34:05.573Z",
+        "created_at": "2021-01-27T09:52:34.613Z",
+        "updated_at": "2021-01-28T11:15:27.353Z"
+      }
     ],
     "tags": [
-    {
-    "id": 10,
-    "name": "Technology",
-    "published_at": "2021-01-28T16:32:08.119Z",
-    "created_at": "2021-01-28T16:32:06.592Z",
-    "updated_at": "2021-01-28T16:32:08.141Z"
-    },
-    {
-    "id": 8,
-    "name": "Management",
-    "published_at": "2021-01-28T16:31:43.955Z",
-    "created_at": "2021-01-28T16:31:42.317Z",
-    "updated_at": "2021-01-28T16:31:43.985Z"
-    },
-    {
-    "id": 11,
-    "name": "Programming",
-    "published_at": "2021-01-28T16:32:23.534Z",
-    "created_at": "2021-01-28T16:32:21.847Z",
-    "updated_at": "2021-01-28T16:32:23.554Z"
-    }
+      {
+        "id": 10,
+        "name": "Technology",
+        "published_at": "2021-01-28T16:32:08.119Z",
+        "created_at": "2021-01-28T16:32:06.592Z",
+        "updated_at": "2021-01-28T16:32:08.141Z"
+      },
+      {
+        "id": 8,
+        "name": "Management",
+        "published_at": "2021-01-28T16:31:43.955Z",
+        "created_at": "2021-01-28T16:31:42.317Z",
+        "updated_at": "2021-01-28T16:31:43.985Z"
+      },
+      {
+        "id": 11,
+        "name": "Programming",
+        "published_at": "2021-01-28T16:32:23.534Z",
+        "created_at": "2021-01-28T16:32:21.847Z",
+        "updated_at": "2021-01-28T16:32:23.554Z"
+      }
     ],
     "genres": [
-    {
-    "id": 6,
-    "name": " Computer Science",
-    "published_at": "2021-01-28T16:29:12.137Z",
-    "created_at": "2021-01-28T16:29:10.413Z",
-    "updated_at": "2021-01-28T16:29:12.156Z"
-    },
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    },
-    {
-    "id": 7,
-    "name": "Business",
-    "published_at": "2021-01-28T16:29:24.460Z",
-    "created_at": "2021-01-28T16:29:22.839Z",
-    "updated_at": "2021-01-28T16:29:24.489Z"
-    }
+      {
+        "id": 6,
+        "name": " Computer Science",
+        "published_at": "2021-01-28T16:29:12.137Z",
+        "created_at": "2021-01-28T16:29:10.413Z",
+        "updated_at": "2021-01-28T16:29:12.156Z"
+      },
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      },
+      {
+        "id": 7,
+        "name": "Business",
+        "published_at": "2021-01-28T16:29:24.460Z",
+        "created_at": "2021-01-28T16:29:22.839Z",
+        "updated_at": "2021-01-28T16:29:24.489Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 14,
     "title": "Obsidian",
     "subtitle": "A Lux Novel Book 1",
@@ -178,37 +178,37 @@
     "updated_at": "2021-01-28T16:58:16.400Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611824216/feec/obsidian_nojlw9.jpg",
     "authors": [
-    {
-    "id": 17,
-    "name": "Jennifer L. Armentrout",
-    "history": "# 1 NEW YORK TIMES, # 1 International, and USA TODAY Bestselling author Jennifer L. Armentrout lives in West Virginia. She also writes under the name J. Lynn. When she's not hard at work writing, she spends her time, reading, working out, watching zombie movies, and pretending to write. She shares her home with her husband, his K-9 partner named Diesel and her hyper Border Jack Apollo, and a slew of farm animals that include alpacas, goats, and sheep.",
-    "rating": null,
-    "book": 15,
-    "published_at": "2021-01-28T09:34:44.307Z",
-    "created_at": "2021-01-28T09:00:43.270Z",
-    "updated_at": "2021-01-28T12:34:27.120Z"
-    }
+      {
+        "id": 17,
+        "name": "Jennifer L. Armentrout",
+        "history": "# 1 NEW YORK TIMES, # 1 International, and USA TODAY Bestselling author Jennifer L. Armentrout lives in West Virginia. She also writes under the name J. Lynn. When she's not hard at work writing, she spends her time, reading, working out, watching zombie movies, and pretending to write. She shares her home with her husband, his K-9 partner named Diesel and her hyper Border Jack Apollo, and a slew of farm animals that include alpacas, goats, and sheep.",
+        "rating": null,
+        "book": 15,
+        "published_at": "2021-01-28T09:34:44.307Z",
+        "created_at": "2021-01-28T09:00:43.270Z",
+        "updated_at": "2021-01-28T12:34:27.120Z"
+      }
     ],
     "tags": [
-    {
-    "id": 13,
-    "name": "Fantasy",
-    "published_at": "2021-01-28T16:36:44.374Z",
-    "created_at": "2021-01-28T16:36:37.697Z",
-    "updated_at": "2021-01-28T16:36:44.406Z"
-    }
+      {
+        "id": 13,
+        "name": "Fantasy",
+        "published_at": "2021-01-28T16:36:44.374Z",
+        "created_at": "2021-01-28T16:36:37.697Z",
+        "updated_at": "2021-01-28T16:36:44.406Z"
+      }
     ],
     "genres": [
-    {
-    "id": 9,
-    "name": "Romance novel",
-    "published_at": "2021-01-28T16:29:51.147Z",
-    "created_at": "2021-01-28T16:29:49.545Z",
-    "updated_at": "2021-01-28T16:29:51.171Z"
-    }
+      {
+        "id": 9,
+        "name": "Romance novel",
+        "published_at": "2021-01-28T16:29:51.147Z",
+        "created_at": "2021-01-28T16:29:49.545Z",
+        "updated_at": "2021-01-28T16:29:51.171Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 9,
     "title": "How To Win Friends and Influence People",
     "subtitle": null,
@@ -229,65 +229,65 @@
     "updated_at": "2021-01-28T16:49:13.917Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611769892/feec/how-to-win-friends_t1a2jn.webp",
     "authors": [
-    {
-    "id": 10,
-    "name": "Dale Carnegie",
-    "history": "Dale Carnegie was a bestselling author, lecturer, actor and the founder of the Dale Carnegie Institute. The son of a farmer, Carnegie was born in 1888 in Maryville, Missouri. After graduating from teachers’ college, he worked as a salesman and an actor before he started teaching public speaking courses in New York City. His lectures became the basis for How to Win Friends and Influence People, which has been published in over thirty languages. Carnegie died of Hodgkin’s disease in 1955.",
-    "rating": null,
-    "book": 9,
-    "published_at": "2021-01-28T09:33:48.418Z",
-    "created_at": "2021-01-27T17:37:01.638Z",
-    "updated_at": "2021-01-28T11:00:19.273Z"
-    }
+      {
+        "id": 10,
+        "name": "Dale Carnegie",
+        "history": "Dale Carnegie was a bestselling author, lecturer, actor and the founder of the Dale Carnegie Institute. The son of a farmer, Carnegie was born in 1888 in Maryville, Missouri. After graduating from teachers’ college, he worked as a salesman and an actor before he started teaching public speaking courses in New York City. His lectures became the basis for How to Win Friends and Influence People, which has been published in over thirty languages. Carnegie died of Hodgkin’s disease in 1955.",
+        "rating": null,
+        "book": 9,
+        "published_at": "2021-01-28T09:33:48.418Z",
+        "created_at": "2021-01-27T17:37:01.638Z",
+        "updated_at": "2021-01-28T11:00:19.273Z"
+      }
     ],
     "tags": [
-    {
-    "id": 19,
-    "name": "Self Improvement",
-    "published_at": "2021-01-28T16:37:51.133Z",
-    "created_at": "2021-01-28T16:37:48.299Z",
-    "updated_at": "2021-01-28T16:37:51.177Z"
-    },
-    {
-    "id": 20,
-    "name": "Mindfulness",
-    "published_at": "2021-01-28T16:38:03.200Z",
-    "created_at": "2021-01-28T16:38:01.159Z",
-    "updated_at": "2021-01-28T16:38:03.245Z"
-    },
-    {
-    "id": 4,
-    "name": "Psychology",
-    "published_at": "2021-01-28T16:30:55.190Z",
-    "created_at": "2021-01-28T16:30:53.627Z",
-    "updated_at": "2021-01-28T16:30:55.209Z"
-    },
-    {
-    "id": 21,
-    "name": "Personal Growth",
-    "published_at": "2021-01-28T16:38:16.449Z",
-    "created_at": "2021-01-28T16:38:14.802Z",
-    "updated_at": "2021-01-28T16:38:16.471Z"
-    }
+      {
+        "id": 19,
+        "name": "Self Improvement",
+        "published_at": "2021-01-28T16:37:51.133Z",
+        "created_at": "2021-01-28T16:37:48.299Z",
+        "updated_at": "2021-01-28T16:37:51.177Z"
+      },
+      {
+        "id": 20,
+        "name": "Mindfulness",
+        "published_at": "2021-01-28T16:38:03.200Z",
+        "created_at": "2021-01-28T16:38:01.159Z",
+        "updated_at": "2021-01-28T16:38:03.245Z"
+      },
+      {
+        "id": 4,
+        "name": "Psychology",
+        "published_at": "2021-01-28T16:30:55.190Z",
+        "created_at": "2021-01-28T16:30:53.627Z",
+        "updated_at": "2021-01-28T16:30:55.209Z"
+      },
+      {
+        "id": 21,
+        "name": "Personal Growth",
+        "published_at": "2021-01-28T16:38:16.449Z",
+        "created_at": "2021-01-28T16:38:14.802Z",
+        "updated_at": "2021-01-28T16:38:16.471Z"
+      }
     ],
     "genres": [
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    },
-    {
-    "id": 4,
-    "name": "Self Help",
-    "published_at": "2021-01-28T16:28:44.723Z",
-    "created_at": "2021-01-28T16:28:43.019Z",
-    "updated_at": "2021-01-28T16:28:44.753Z"
-    }
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      },
+      {
+        "id": 4,
+        "name": "Self Help",
+        "published_at": "2021-01-28T16:28:44.723Z",
+        "created_at": "2021-01-28T16:28:43.019Z",
+        "updated_at": "2021-01-28T16:28:44.753Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 12,
     "title": "Blue Ocean Strategy",
     "subtitle": "How to Create Uncontested Market Space and Make the Competition Irrelevant",
@@ -308,68 +308,68 @@
     "updated_at": "2021-01-28T16:42:32.081Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611770914/feec/blue-ocean-strategy_amjdl6.jpg",
     "authors": [
-    {
-    "id": 13,
-    "name": "W. Chan Kim",
-    "history": "W. Chan Kim is the Co-Director of the INSEAD Blue Ocean Strategy Institute and a Chair Professor of Strategy and International Management at INSEAD. His book Blue Ocean Strategy, co-authored with Renée Mauborgne, has sold 3.6 million copies and is a bestseller across five continents.\n\nKim is ranked in the top 3 management gurus in the world in the Thinkers50 listing of the World's Top Management Gurus and the Journal of International Management recognizes him as one of the world's most influential academic journal authors in global strategy. He was selected for the 2011 Leadership Hall of Fame by Fast Company magazine and was named among the world's top 5 best business school professors by MBA Rankings. He also received the Nobels Colloquia Prize for Leadership on Business and Economic Thinking. He is a Fellow of the World Economic Forum and an advisory member for the European Union. He also serves as an advisor to several countries.",
-    "rating": null,
-    "book": 12,
-    "published_at": "2021-01-28T09:35:27.046Z",
-    "created_at": "2021-01-28T08:38:48.008Z",
-    "updated_at": "2021-01-28T09:47:54.754Z"
-    },
-    {
-    "id": 14,
-    "name": "Renée A. Mauborgne ",
-    "history": "Renee Mauborgne is The INSEAD Distinguished Fellow and a professor of strategy at INSEAD, one of the world’s top business schools. She is also Co-Director of the INSEAD Blue Ocean Strategy Institute.\n\nRenee Mauborgne along with her colleague Chan Kim was named the #1 Most Influential Business Thinker in the world by Thinkers50. She is the first woman ever to secure the top spot on the Thinkers50 list of global thought leaders. Renee Mauborgne was named among the world’s top 5 best business school professors by MBA Rankings. She has received numerous academic and management awards including the Nobels Colloquia Prize for Leadership on Business and Economic Thinking, the Carl S. Sloane Award by the Association of Management Consulting Firms, the Leadership Hall of Fame by Fast Company, the Eldridge Haynes Prize, awarded by the Academy of International Business and the Eldridge Haynes Memorial Trust of Business International, for the best original paper in the field of international business among others.\n\nMauborgne served on President Barack Obama’s Board of Advisors on Historically Black Colleges and Universities (HBCUs) for the President’s two terms. She is also a Fellow of the World Economic Forum.\n\nMauborgne has published numerous bestselling articles in Harvard Business Review, Academy of Management Journal, Management Science, Organization Science, Strategic Management Journal, Administrative Science Quarterly, Journal of International Business Studies, MIT Sloan Management Review, and others. She also has published numerous articles in The Wall Street Journal, The Wall Street Journal Europe, The New York Times and The Financial Times, among others. Mauborgne is a world’s top bestselling author at the Case Centre and the recipient of numerous Case Centre awards including “The Global Top 10 Bestselling Case Writers.”\n\nMauborgne is the co-author of the global bestseller Blue Ocean Strategy (Harvard Business Review Press) and the indispensable follow-up, Blue Ocean Shift (Hachette Books, September 2017). Blue Ocean Shift is a New York Times and #1 Wall Street Journal Bestseller. It is also an USA Today Bestseller, Los Angeles Times Bestseller, and an International Bestseller. Amazon selected Blue Ocean Shift as a “Best Business and Leadership Books of 2017.” Blue Ocean Shift is also the winner of “The Best Leadership and Strategy Book of 2017” by 800-CEO-READ and the #1 business book of 2017 by Library Journal. Apple iBooks called it “one of the biggest books of the year.” Only a year out, and Blue Ocean Shift is already being published in 30 languages. To date, Blue Ocean Strategy and Blue Ocean Shift teaching materials have been adopted by over 2800 universities in over 100 countries across the globe.\n\nHer book Blue Ocean Strategy has sold over 4 million copies and is recognized as one of the most iconic and impactful strategy books ever written. It is being published in a record-breaking 46 languages and is a bestseller across five continents, hitting over 300 bestseller lists across the globe. The Financial Times called it “one of the bestselling business books of the century” and The Economist called it “the most successful book on business master-planning”. Blue Ocean Strategy is selected as one of the 40 most influential books in the History of the People’s Republic of China (1949-2009) along with Adam Smith’s The Wealth of Nations and Milton Friedman’s Free to Choose.\nClick here for a list of the major book awards won.\n\nMauborgne co-founded the Blue Ocean Global Network (BOGN), a global community of practice on the Blue Ocean family of concepts that she created. BOGN embraces academics, consultants, executives, and government officers.",
-    "rating": null,
-    "book": 12,
-    "published_at": "2021-01-28T09:35:21.388Z",
-    "created_at": "2021-01-28T08:40:46.377Z",
-    "updated_at": "2021-01-28T09:47:54.754Z"
-    }
+      {
+        "id": 13,
+        "name": "W. Chan Kim",
+        "history": "W. Chan Kim is the Co-Director of the INSEAD Blue Ocean Strategy Institute and a Chair Professor of Strategy and International Management at INSEAD. His book Blue Ocean Strategy, co-authored with Renée Mauborgne, has sold 3.6 million copies and is a bestseller across five continents.\n\nKim is ranked in the top 3 management gurus in the world in the Thinkers50 listing of the World's Top Management Gurus and the Journal of International Management recognizes him as one of the world's most influential academic journal authors in global strategy. He was selected for the 2011 Leadership Hall of Fame by Fast Company magazine and was named among the world's top 5 best business school professors by MBA Rankings. He also received the Nobels Colloquia Prize for Leadership on Business and Economic Thinking. He is a Fellow of the World Economic Forum and an advisory member for the European Union. He also serves as an advisor to several countries.",
+        "rating": null,
+        "book": 12,
+        "published_at": "2021-01-28T09:35:27.046Z",
+        "created_at": "2021-01-28T08:38:48.008Z",
+        "updated_at": "2021-01-28T09:47:54.754Z"
+      },
+      {
+        "id": 14,
+        "name": "Renée A. Mauborgne ",
+        "history": "Renee Mauborgne is The INSEAD Distinguished Fellow and a professor of strategy at INSEAD, one of the world’s top business schools. She is also Co-Director of the INSEAD Blue Ocean Strategy Institute.\n\nRenee Mauborgne along with her colleague Chan Kim was named the #1 Most Influential Business Thinker in the world by Thinkers50. She is the first woman ever to secure the top spot on the Thinkers50 list of global thought leaders. Renee Mauborgne was named among the world’s top 5 best business school professors by MBA Rankings. She has received numerous academic and management awards including the Nobels Colloquia Prize for Leadership on Business and Economic Thinking, the Carl S. Sloane Award by the Association of Management Consulting Firms, the Leadership Hall of Fame by Fast Company, the Eldridge Haynes Prize, awarded by the Academy of International Business and the Eldridge Haynes Memorial Trust of Business International, for the best original paper in the field of international business among others.\n\nMauborgne served on President Barack Obama’s Board of Advisors on Historically Black Colleges and Universities (HBCUs) for the President’s two terms. She is also a Fellow of the World Economic Forum.\n\nMauborgne has published numerous bestselling articles in Harvard Business Review, Academy of Management Journal, Management Science, Organization Science, Strategic Management Journal, Administrative Science Quarterly, Journal of International Business Studies, MIT Sloan Management Review, and others. She also has published numerous articles in The Wall Street Journal, The Wall Street Journal Europe, The New York Times and The Financial Times, among others. Mauborgne is a world’s top bestselling author at the Case Centre and the recipient of numerous Case Centre awards including “The Global Top 10 Bestselling Case Writers.”\n\nMauborgne is the co-author of the global bestseller Blue Ocean Strategy (Harvard Business Review Press) and the indispensable follow-up, Blue Ocean Shift (Hachette Books, September 2017). Blue Ocean Shift is a New York Times and #1 Wall Street Journal Bestseller. It is also an USA Today Bestseller, Los Angeles Times Bestseller, and an International Bestseller. Amazon selected Blue Ocean Shift as a “Best Business and Leadership Books of 2017.” Blue Ocean Shift is also the winner of “The Best Leadership and Strategy Book of 2017” by 800-CEO-READ and the #1 business book of 2017 by Library Journal. Apple iBooks called it “one of the biggest books of the year.” Only a year out, and Blue Ocean Shift is already being published in 30 languages. To date, Blue Ocean Strategy and Blue Ocean Shift teaching materials have been adopted by over 2800 universities in over 100 countries across the globe.\n\nHer book Blue Ocean Strategy has sold over 4 million copies and is recognized as one of the most iconic and impactful strategy books ever written. It is being published in a record-breaking 46 languages and is a bestseller across five continents, hitting over 300 bestseller lists across the globe. The Financial Times called it “one of the bestselling business books of the century” and The Economist called it “the most successful book on business master-planning”. Blue Ocean Strategy is selected as one of the 40 most influential books in the History of the People’s Republic of China (1949-2009) along with Adam Smith’s The Wealth of Nations and Milton Friedman’s Free to Choose.\nClick here for a list of the major book awards won.\n\nMauborgne co-founded the Blue Ocean Global Network (BOGN), a global community of practice on the Blue Ocean family of concepts that she created. BOGN embraces academics, consultants, executives, and government officers.",
+        "rating": null,
+        "book": 12,
+        "published_at": "2021-01-28T09:35:21.388Z",
+        "created_at": "2021-01-28T08:40:46.377Z",
+        "updated_at": "2021-01-28T09:47:54.754Z"
+      }
     ],
     "tags": [
-    {
-    "id": 9,
-    "name": "Corporate",
-    "published_at": "2021-01-28T16:31:56.102Z",
-    "created_at": "2021-01-28T16:31:54.528Z",
-    "updated_at": "2021-01-28T16:31:56.125Z"
-    },
-    {
-    "id": 6,
-    "name": "Strategy",
-    "published_at": "2021-01-28T16:31:18.780Z",
-    "created_at": "2021-01-28T16:31:17.152Z",
-    "updated_at": "2021-01-28T16:31:18.823Z"
-    },
-    {
-    "id": 8,
-    "name": "Management",
-    "published_at": "2021-01-28T16:31:43.955Z",
-    "created_at": "2021-01-28T16:31:42.317Z",
-    "updated_at": "2021-01-28T16:31:43.985Z"
-    }
+      {
+        "id": 9,
+        "name": "Corporate",
+        "published_at": "2021-01-28T16:31:56.102Z",
+        "created_at": "2021-01-28T16:31:54.528Z",
+        "updated_at": "2021-01-28T16:31:56.125Z"
+      },
+      {
+        "id": 6,
+        "name": "Strategy",
+        "published_at": "2021-01-28T16:31:18.780Z",
+        "created_at": "2021-01-28T16:31:17.152Z",
+        "updated_at": "2021-01-28T16:31:18.823Z"
+      },
+      {
+        "id": 8,
+        "name": "Management",
+        "published_at": "2021-01-28T16:31:43.955Z",
+        "created_at": "2021-01-28T16:31:42.317Z",
+        "updated_at": "2021-01-28T16:31:43.985Z"
+      }
     ],
     "genres": [
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    },
-    {
-    "id": 7,
-    "name": "Business",
-    "published_at": "2021-01-28T16:29:24.460Z",
-    "created_at": "2021-01-28T16:29:22.839Z",
-    "updated_at": "2021-01-28T16:29:24.489Z"
-    }
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      },
+      {
+        "id": 7,
+        "name": "Business",
+        "published_at": "2021-01-28T16:29:24.460Z",
+        "created_at": "2021-01-28T16:29:22.839Z",
+        "updated_at": "2021-01-28T16:29:24.489Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 13,
     "title": "The Four Agreements",
     "subtitle": "A Practical Guide to Personal Freedom (A Toltec Wisdom Book)",
@@ -390,75 +390,75 @@
     "updated_at": "2021-01-28T17:00:18.093Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611823358/feec/the-four-agreements_gtp2bw.jpg",
     "authors": [
-    {
-    "id": 15,
-    "name": "Don Miguel Ruiz",
-    "history": "www.miguelruiz.com\n\nDon Miguel Ruiz is a renowned spiritual teacher and internationally bestselling author of the \"Toltec Wisdom Series,\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 12 million copies in the United States, and have been published in 46 languages worldwide.\n\ndon Miguel has spent the past three decades guiding students to personal freedom through his profound insights regarding the nature of human reality. His newest book, THE ACTOR (Ediciones Urano) written with Barbara Emrys was published November 3rd, 2020.\n\nThe youngest of thirteen children, don Miguel Ruiz was born in rural Mexico to parents who were healers and practitioners of ancient Toltec traditions. As a young adult, he graduated from medical school in Mexico City and practiced neurosurgery with his older brother in Tijuana. A near-fatal car crash forever changed the direction of his life, however, causing him to leave medicine and to examine the essential truth about life and humanity. With his mother's help, and through her ancestral teachings, he discovered his own path to awareness, which evolved into a deep understanding of the physical universe and the virtual world of the mind.\n\nCombining Toltec mythology and scientific perspectives, don Miguel has been able to merge ancient wisdom with modern physics and practical common-sense, forging a new philosophy for seekers of truth and personal authenticity. His landmark bestselling book, The Four Agreements, contains practical steps for long-term, personal transformation and has been read by millions around the world.\n\nFirst published in 1997, The Four Agreements has since sold over nine million copies in the United States and seven million worldwide. It has been translated into 46 languages, appeared on the New York Times bestseller for nearly ten years, and was the 36th bestselling book of the decade. Don Miguel is also the author of The Mastery of Love, The Voice of Knowledge, Prayers, and the New York Times bestseller, The Fifth Agreement, a collaboration with his son, don José Ruiz. Each of his books are international bestsellers.\n\nThe wisdom don Miguel has brought to the world has earned him respect around the globe. He has dedicated his life to sharing his message through practical concepts in order to promote transformation and ultimately change lives for the better. Don Miguel is the recipient of numerous recognitions, including a U.S. Air Force 'challenge coin' engraved with \"The Four Agreements.\" He is the recipient of an Honorary Degree in Cultural and Social Education from the American Cultural Institute of Mexico, and referenced as a \"national treasure\" in his native country.",
-    "rating": null,
-    "book": 20,
-    "published_at": "2021-01-28T09:33:57.824Z",
-    "created_at": "2021-01-28T08:55:13.260Z",
-    "updated_at": "2021-01-28T11:02:43.720Z"
-    },
-    {
-    "id": 16,
-    "name": "Janet Mills",
-    "history": "Janet Mills is the founder of Amber-Allen Publishing, and co-author (with don Miguel Ruiz) of the international bestselling \"Toltec Wisdom Series\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 13 million copies in the United States, and have been published in 46 languages worldwide.\n\nMills recently published an online course, \"The Four Agreements for a Better Life,\" for people who want to deepen their understanding and practice of these deceptively simple agreements. Information about the course is available at TheFourAgreements.com.\n\nMills is also the editor of and publisher of Deepak Chopra's international bestselling title \"The Seven Spiritual Laws of Success\" (over 2.5 million copies sold), and the publisher of 11 world-renowned \"Seth\" books by Jane Roberts, which have been credited with launching the New Age movement.\n\nMills credits the books she publishes for inspiring her belief system and transforming her life. Her personal mission is to share universal wisdom in the language of our times, and to help inspire others to live the life of their dreams. She lives in San Rafael, California.",
-    "rating": null,
-    "book": 20,
-    "published_at": "2021-01-28T09:34:35.061Z",
-    "created_at": "2021-01-28T08:55:55.723Z",
-    "updated_at": "2021-01-28T11:02:43.720Z"
-    }
+      {
+        "id": 15,
+        "name": "Don Miguel Ruiz",
+        "history": "www.miguelruiz.com\n\nDon Miguel Ruiz is a renowned spiritual teacher and internationally bestselling author of the \"Toltec Wisdom Series,\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 12 million copies in the United States, and have been published in 46 languages worldwide.\n\ndon Miguel has spent the past three decades guiding students to personal freedom through his profound insights regarding the nature of human reality. His newest book, THE ACTOR (Ediciones Urano) written with Barbara Emrys was published November 3rd, 2020.\n\nThe youngest of thirteen children, don Miguel Ruiz was born in rural Mexico to parents who were healers and practitioners of ancient Toltec traditions. As a young adult, he graduated from medical school in Mexico City and practiced neurosurgery with his older brother in Tijuana. A near-fatal car crash forever changed the direction of his life, however, causing him to leave medicine and to examine the essential truth about life and humanity. With his mother's help, and through her ancestral teachings, he discovered his own path to awareness, which evolved into a deep understanding of the physical universe and the virtual world of the mind.\n\nCombining Toltec mythology and scientific perspectives, don Miguel has been able to merge ancient wisdom with modern physics and practical common-sense, forging a new philosophy for seekers of truth and personal authenticity. His landmark bestselling book, The Four Agreements, contains practical steps for long-term, personal transformation and has been read by millions around the world.\n\nFirst published in 1997, The Four Agreements has since sold over nine million copies in the United States and seven million worldwide. It has been translated into 46 languages, appeared on the New York Times bestseller for nearly ten years, and was the 36th bestselling book of the decade. Don Miguel is also the author of The Mastery of Love, The Voice of Knowledge, Prayers, and the New York Times bestseller, The Fifth Agreement, a collaboration with his son, don José Ruiz. Each of his books are international bestsellers.\n\nThe wisdom don Miguel has brought to the world has earned him respect around the globe. He has dedicated his life to sharing his message through practical concepts in order to promote transformation and ultimately change lives for the better. Don Miguel is the recipient of numerous recognitions, including a U.S. Air Force 'challenge coin' engraved with \"The Four Agreements.\" He is the recipient of an Honorary Degree in Cultural and Social Education from the American Cultural Institute of Mexico, and referenced as a \"national treasure\" in his native country.",
+        "rating": null,
+        "book": 20,
+        "published_at": "2021-01-28T09:33:57.824Z",
+        "created_at": "2021-01-28T08:55:13.260Z",
+        "updated_at": "2021-01-28T11:02:43.720Z"
+      },
+      {
+        "id": 16,
+        "name": "Janet Mills",
+        "history": "Janet Mills is the founder of Amber-Allen Publishing, and co-author (with don Miguel Ruiz) of the international bestselling \"Toltec Wisdom Series\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 13 million copies in the United States, and have been published in 46 languages worldwide.\n\nMills recently published an online course, \"The Four Agreements for a Better Life,\" for people who want to deepen their understanding and practice of these deceptively simple agreements. Information about the course is available at TheFourAgreements.com.\n\nMills is also the editor of and publisher of Deepak Chopra's international bestselling title \"The Seven Spiritual Laws of Success\" (over 2.5 million copies sold), and the publisher of 11 world-renowned \"Seth\" books by Jane Roberts, which have been credited with launching the New Age movement.\n\nMills credits the books she publishes for inspiring her belief system and transforming her life. Her personal mission is to share universal wisdom in the language of our times, and to help inspire others to live the life of their dreams. She lives in San Rafael, California.",
+        "rating": null,
+        "book": 20,
+        "published_at": "2021-01-28T09:34:35.061Z",
+        "created_at": "2021-01-28T08:55:55.723Z",
+        "updated_at": "2021-01-28T11:02:43.720Z"
+      }
     ],
     "tags": [
-    {
-    "id": 21,
-    "name": "Personal Growth",
-    "published_at": "2021-01-28T16:38:16.449Z",
-    "created_at": "2021-01-28T16:38:14.802Z",
-    "updated_at": "2021-01-28T16:38:16.471Z"
-    },
-    {
-    "id": 19,
-    "name": "Self Improvement",
-    "published_at": "2021-01-28T16:37:51.133Z",
-    "created_at": "2021-01-28T16:37:48.299Z",
-    "updated_at": "2021-01-28T16:37:51.177Z"
-    },
-    {
-    "id": 5,
-    "name": "Wellness",
-    "published_at": "2021-01-28T16:31:07.680Z",
-    "created_at": "2021-01-28T16:31:06.061Z",
-    "updated_at": "2021-01-28T16:31:07.699Z"
-    },
-    {
-    "id": 20,
-    "name": "Mindfulness",
-    "published_at": "2021-01-28T16:38:03.200Z",
-    "created_at": "2021-01-28T16:38:01.159Z",
-    "updated_at": "2021-01-28T16:38:03.245Z"
-    }
+      {
+        "id": 21,
+        "name": "Personal Growth",
+        "published_at": "2021-01-28T16:38:16.449Z",
+        "created_at": "2021-01-28T16:38:14.802Z",
+        "updated_at": "2021-01-28T16:38:16.471Z"
+      },
+      {
+        "id": 19,
+        "name": "Self Improvement",
+        "published_at": "2021-01-28T16:37:51.133Z",
+        "created_at": "2021-01-28T16:37:48.299Z",
+        "updated_at": "2021-01-28T16:37:51.177Z"
+      },
+      {
+        "id": 5,
+        "name": "Wellness",
+        "published_at": "2021-01-28T16:31:07.680Z",
+        "created_at": "2021-01-28T16:31:06.061Z",
+        "updated_at": "2021-01-28T16:31:07.699Z"
+      },
+      {
+        "id": 20,
+        "name": "Mindfulness",
+        "published_at": "2021-01-28T16:38:03.200Z",
+        "created_at": "2021-01-28T16:38:01.159Z",
+        "updated_at": "2021-01-28T16:38:03.245Z"
+      }
     ],
     "genres": [
-    {
-    "id": 4,
-    "name": "Self Help",
-    "published_at": "2021-01-28T16:28:44.723Z",
-    "created_at": "2021-01-28T16:28:43.019Z",
-    "updated_at": "2021-01-28T16:28:44.753Z"
-    },
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    }
+      {
+        "id": 4,
+        "name": "Self Help",
+        "published_at": "2021-01-28T16:28:44.723Z",
+        "created_at": "2021-01-28T16:28:43.019Z",
+        "updated_at": "2021-01-28T16:28:44.753Z"
+      },
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 16,
     "title": "The Signature of All Things",
     "subtitle": null,
@@ -479,36 +479,36 @@
     "updated_at": "2021-01-28T17:04:35.535Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611824923/feec/signature-of-all-things_ogxgi7.jpg",
     "authors": [
-    {
-    "id": 2,
-    "name": "Elizabeth Gilbert",
-    "history": "Elizabeth Gilbert is the number one bestselling author of Eat Pray Love and several other international bestselling books of fiction and non-fiction. Her story collection Pilgrims was a finalist for the PEN/Hemingway award; The Last American Man was a finalist for both the National Book Award and the National Book Critics Circle Award. Her follow-up memoir to Eat Pray Love, Committed, became an instant number one New York Times bestseller. She has published two novels, Stern Men and The Signature of All Things, which was long-listed for the Baileys Women's Prize for Fiction and shortlisted for the Wellcome Book Prize. She lives in New Jersey.\n\nwww.elizabethgilbert.com\n@GilbertLiz",
-    "rating": null,
-    "book": 1,
-    "published_at": "2021-01-28T09:34:14.340Z",
-    "created_at": "2021-01-27T09:18:53.344Z",
-    "updated_at": "2021-01-28T11:06:33.868Z"
-    }
+      {
+        "id": 2,
+        "name": "Elizabeth Gilbert",
+        "history": "Elizabeth Gilbert is the number one bestselling author of Eat Pray Love and several other international bestselling books of fiction and non-fiction. Her story collection Pilgrims was a finalist for the PEN/Hemingway award; The Last American Man was a finalist for both the National Book Award and the National Book Critics Circle Award. Her follow-up memoir to Eat Pray Love, Committed, became an instant number one New York Times bestseller. She has published two novels, Stern Men and The Signature of All Things, which was long-listed for the Baileys Women's Prize for Fiction and shortlisted for the Wellcome Book Prize. She lives in New Jersey.\n\nwww.elizabethgilbert.com\n@GilbertLiz",
+        "rating": null,
+        "book": 1,
+        "published_at": "2021-01-28T09:34:14.340Z",
+        "created_at": "2021-01-27T09:18:53.344Z",
+        "updated_at": "2021-01-28T11:06:33.868Z"
+      }
     ],
     "tags": [
-    {
-    "id": 14,
-    "name": "Historical",
-    "published_at": "2021-01-28T16:36:50.073Z",
-    "created_at": "2021-01-28T16:36:48.661Z",
-    "updated_at": "2021-01-28T16:36:50.118Z"
-    },
-    {
-    "id": 15,
-    "name": "Novel",
-    "published_at": "2021-01-28T16:37:01.562Z",
-    "created_at": "2021-01-28T16:36:59.808Z",
-    "updated_at": "2021-01-28T16:37:01.584Z"
-    }
+      {
+        "id": 14,
+        "name": "Historical",
+        "published_at": "2021-01-28T16:36:50.073Z",
+        "created_at": "2021-01-28T16:36:48.661Z",
+        "updated_at": "2021-01-28T16:36:50.118Z"
+      },
+      {
+        "id": 15,
+        "name": "Novel",
+        "published_at": "2021-01-28T16:37:01.562Z",
+        "created_at": "2021-01-28T16:36:59.808Z",
+        "updated_at": "2021-01-28T16:37:01.584Z"
+      }
     ],
     "genres": []
-    },
-    {
+  },
+  {
     "id": 21,
     "title": "What You Do Is Who You Are",
     "subtitle": "How to Create Your Business Culture",
@@ -529,72 +529,72 @@
     "updated_at": "2021-01-28T17:06:56.135Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611826351/feec/what-you-do_rerozi.jpg",
     "authors": [
-    {
-    "id": 11,
-    "name": "Ben Horowitz",
-    "history": "Ben Horowitz is the cofounder and general partner of Andreessen Horowitz, a Silicon Valley–based venture capital firm that invests in entrepreneurs building the next generation of leading technology companies. The firm's investments include Airbnb, GitHub, Facebook, Pinterest, and Twitter. Previously he was cofounder and CEO of Opsware, formerly Loudcloud, which was acquired by Hewlett-Packard for $1.6 billion in 2007. Horowitz writes about his experiences and insights from his career as a computer science student, software engineer, cofounder, CEO, and investor in a blog that is read by nearly ten million people. He has also been featured in the Wall Street Journal, the New York Times, the New Yorker, Fortune, the Economist, and Bloomberg Businessweek, among others. Horowitz lives in the San Francisco Bay Area with his wife, Felicia.",
-    "rating": null,
-    "book": 21,
-    "published_at": "2021-01-28T09:33:21.889Z",
-    "created_at": "2021-01-27T17:55:53.605Z",
-    "updated_at": "2021-01-28T11:31:19.503Z"
-    }
+      {
+        "id": 11,
+        "name": "Ben Horowitz",
+        "history": "Ben Horowitz is the cofounder and general partner of Andreessen Horowitz, a Silicon Valley–based venture capital firm that invests in entrepreneurs building the next generation of leading technology companies. The firm's investments include Airbnb, GitHub, Facebook, Pinterest, and Twitter. Previously he was cofounder and CEO of Opsware, formerly Loudcloud, which was acquired by Hewlett-Packard for $1.6 billion in 2007. Horowitz writes about his experiences and insights from his career as a computer science student, software engineer, cofounder, CEO, and investor in a blog that is read by nearly ten million people. He has also been featured in the Wall Street Journal, the New York Times, the New Yorker, Fortune, the Economist, and Bloomberg Businessweek, among others. Horowitz lives in the San Francisco Bay Area with his wife, Felicia.",
+        "rating": null,
+        "book": 21,
+        "published_at": "2021-01-28T09:33:21.889Z",
+        "created_at": "2021-01-27T17:55:53.605Z",
+        "updated_at": "2021-01-28T11:31:19.503Z"
+      }
     ],
     "tags": [
-    {
-    "id": 25,
-    "name": " Entrepreneurship",
-    "published_at": "2021-01-28T16:39:02.166Z",
-    "created_at": "2021-01-28T16:39:00.309Z",
-    "updated_at": "2021-01-28T16:39:02.183Z"
-    },
-    {
-    "id": 4,
-    "name": "Psychology",
-    "published_at": "2021-01-28T16:30:55.190Z",
-    "created_at": "2021-01-28T16:30:53.627Z",
-    "updated_at": "2021-01-28T16:30:55.209Z"
-    },
-    {
-    "id": 7,
-    "name": "Leadership",
-    "published_at": "2021-01-28T16:31:31.470Z",
-    "created_at": "2021-01-28T16:31:29.983Z",
-    "updated_at": "2021-01-28T16:31:31.500Z"
-    },
-    {
-    "id": 8,
-    "name": "Management",
-    "published_at": "2021-01-28T16:31:43.955Z",
-    "created_at": "2021-01-28T16:31:42.317Z",
-    "updated_at": "2021-01-28T16:31:43.985Z"
-    }
+      {
+        "id": 25,
+        "name": " Entrepreneurship",
+        "published_at": "2021-01-28T16:39:02.166Z",
+        "created_at": "2021-01-28T16:39:00.309Z",
+        "updated_at": "2021-01-28T16:39:02.183Z"
+      },
+      {
+        "id": 4,
+        "name": "Psychology",
+        "published_at": "2021-01-28T16:30:55.190Z",
+        "created_at": "2021-01-28T16:30:53.627Z",
+        "updated_at": "2021-01-28T16:30:55.209Z"
+      },
+      {
+        "id": 7,
+        "name": "Leadership",
+        "published_at": "2021-01-28T16:31:31.470Z",
+        "created_at": "2021-01-28T16:31:29.983Z",
+        "updated_at": "2021-01-28T16:31:31.500Z"
+      },
+      {
+        "id": 8,
+        "name": "Management",
+        "published_at": "2021-01-28T16:31:43.955Z",
+        "created_at": "2021-01-28T16:31:42.317Z",
+        "updated_at": "2021-01-28T16:31:43.985Z"
+      }
     ],
     "genres": [
-    {
-    "id": 7,
-    "name": "Business",
-    "published_at": "2021-01-28T16:29:24.460Z",
-    "created_at": "2021-01-28T16:29:22.839Z",
-    "updated_at": "2021-01-28T16:29:24.489Z"
-    },
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    },
-    {
-    "id": 4,
-    "name": "Self Help",
-    "published_at": "2021-01-28T16:28:44.723Z",
-    "created_at": "2021-01-28T16:28:43.019Z",
-    "updated_at": "2021-01-28T16:28:44.753Z"
-    }
+      {
+        "id": 7,
+        "name": "Business",
+        "published_at": "2021-01-28T16:29:24.460Z",
+        "created_at": "2021-01-28T16:29:22.839Z",
+        "updated_at": "2021-01-28T16:29:24.489Z"
+      },
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      },
+      {
+        "id": 4,
+        "name": "Self Help",
+        "published_at": "2021-01-28T16:28:44.723Z",
+        "created_at": "2021-01-28T16:28:43.019Z",
+        "updated_at": "2021-01-28T16:28:44.753Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 3,
     "title": "Built to Last",
     "subtitle": "Successful Habits of Visionary Companies",
@@ -615,54 +615,54 @@
     "updated_at": "2021-01-28T16:52:47.672Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611740637/feec/built-to-last-cover_cb92oa.jpg",
     "authors": [
-    {
-    "id": 3,
-    "name": "Jim Collins",
-    "history": "Jim Collins is author or coauthor of six books that have sold in total more than ten million copies worldwide, including the bestsellers Good to Great, Built to Last, and How the Mighty Fall. Jim began his research and teaching career on the faculty at Stanford Graduate School of Business, where he received the Distinguished Teaching Award in 1992. He now operates a management laboratory in Boulder, Colorado, where he conducts research, teaches, and consults with executives from the corporate and social sectors.\n\n",
-    "rating": null,
-    "book": 3,
-    "published_at": "2021-01-28T09:35:00.600Z",
-    "created_at": "2021-01-27T09:39:31.094Z",
-    "updated_at": "2021-01-28T09:50:02.197Z"
-    },
-    {
-    "id": 4,
-    "name": "Jerry I. Porras",
-    "history": "Jerry I. Porras is an American organizational theorist, Lane Professor Emeritus of Organizational Behavior and Change at the Stanford University Graduate School of Business. He is best known as co-author of the 1994 bestseller Success Built to Last: Creating A Life That Matters, written with James C. Collins.",
-    "rating": null,
-    "book": 3,
-    "published_at": "2021-01-28T09:34:54.918Z",
-    "created_at": "2021-01-27T09:41:48.044Z",
-    "updated_at": "2021-01-28T09:50:02.197Z"
-    }
+      {
+        "id": 3,
+        "name": "Jim Collins",
+        "history": "Jim Collins is author or coauthor of six books that have sold in total more than ten million copies worldwide, including the bestsellers Good to Great, Built to Last, and How the Mighty Fall. Jim began his research and teaching career on the faculty at Stanford Graduate School of Business, where he received the Distinguished Teaching Award in 1992. He now operates a management laboratory in Boulder, Colorado, where he conducts research, teaches, and consults with executives from the corporate and social sectors.\n\n",
+        "rating": null,
+        "book": 3,
+        "published_at": "2021-01-28T09:35:00.600Z",
+        "created_at": "2021-01-27T09:39:31.094Z",
+        "updated_at": "2021-01-28T09:50:02.197Z"
+      },
+      {
+        "id": 4,
+        "name": "Jerry I. Porras",
+        "history": "Jerry I. Porras is an American organizational theorist, Lane Professor Emeritus of Organizational Behavior and Change at the Stanford University Graduate School of Business. He is best known as co-author of the 1994 bestseller Success Built to Last: Creating A Life That Matters, written with James C. Collins.",
+        "rating": null,
+        "book": 3,
+        "published_at": "2021-01-28T09:34:54.918Z",
+        "created_at": "2021-01-27T09:41:48.044Z",
+        "updated_at": "2021-01-28T09:50:02.197Z"
+      }
     ],
     "tags": [
-    {
-    "id": 9,
-    "name": "Corporate",
-    "published_at": "2021-01-28T16:31:56.102Z",
-    "created_at": "2021-01-28T16:31:54.528Z",
-    "updated_at": "2021-01-28T16:31:56.125Z"
-    },
-    {
-    "id": 6,
-    "name": "Strategy",
-    "published_at": "2021-01-28T16:31:18.780Z",
-    "created_at": "2021-01-28T16:31:17.152Z",
-    "updated_at": "2021-01-28T16:31:18.823Z"
-    }
+      {
+        "id": 9,
+        "name": "Corporate",
+        "published_at": "2021-01-28T16:31:56.102Z",
+        "created_at": "2021-01-28T16:31:54.528Z",
+        "updated_at": "2021-01-28T16:31:56.125Z"
+      },
+      {
+        "id": 6,
+        "name": "Strategy",
+        "published_at": "2021-01-28T16:31:18.780Z",
+        "created_at": "2021-01-28T16:31:17.152Z",
+        "updated_at": "2021-01-28T16:31:18.823Z"
+      }
     ],
     "genres": [
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    }
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 6,
     "title": "Becoming",
     "subtitle": "An intimate, powerful, and inspiring memoir by the former First Lady of the United States",
@@ -683,44 +683,44 @@
     "updated_at": "2021-01-28T16:40:09.823Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611741957/feec/becoming-cover_suqk9r.jpg",
     "authors": [
-    {
-    "id": 7,
-    "name": "Michelle Obama",
-    "history": "Michelle Robinson Obama served as First Lady of the United States from 2009 to 2017. A graduate of Princeton University and Harvard Law School, Mrs. Obama started her career as an attorney at the Chicago law firm Sidley & Austin, where she met her future husband, Barack Obama. She later worked in the Chicago mayor’s office, at the University of Chicago, and at the University of Chicago Medical Center. Mrs. Obama also founded the Chicago chapter of Public Allies, an organization that prepares young people for careers in public service.\n \nThe Obamas currently live in Washington, DC, and have two daughters, Malia and Sasha.",
-    "rating": null,
-    "book": 6,
-    "published_at": "2021-01-28T09:35:06.852Z",
-    "created_at": "2021-01-27T10:06:54.368Z",
-    "updated_at": "2021-01-28T09:41:01.505Z"
-    }
+      {
+        "id": 7,
+        "name": "Michelle Obama",
+        "history": "Michelle Robinson Obama served as First Lady of the United States from 2009 to 2017. A graduate of Princeton University and Harvard Law School, Mrs. Obama started her career as an attorney at the Chicago law firm Sidley & Austin, where she met her future husband, Barack Obama. She later worked in the Chicago mayor’s office, at the University of Chicago, and at the University of Chicago Medical Center. Mrs. Obama also founded the Chicago chapter of Public Allies, an organization that prepares young people for careers in public service.\n \nThe Obamas currently live in Washington, DC, and have two daughters, Malia and Sasha.",
+        "rating": null,
+        "book": 6,
+        "published_at": "2021-01-28T09:35:06.852Z",
+        "created_at": "2021-01-27T10:06:54.368Z",
+        "updated_at": "2021-01-28T09:41:01.505Z"
+      }
     ],
     "tags": [
-    {
-    "id": 3,
-    "name": "Inspirational",
-    "published_at": "2021-01-28T16:30:41.599Z",
-    "created_at": "2021-01-28T16:30:40.026Z",
-    "updated_at": "2021-01-28T16:30:41.622Z"
-    }
+      {
+        "id": 3,
+        "name": "Inspirational",
+        "published_at": "2021-01-28T16:30:41.599Z",
+        "created_at": "2021-01-28T16:30:40.026Z",
+        "updated_at": "2021-01-28T16:30:41.622Z"
+      }
     ],
     "genres": [
-    {
-    "id": 2,
-    "name": "Autobiography",
-    "published_at": "2021-01-28T16:28:20.150Z",
-    "created_at": "2021-01-28T16:28:18.249Z",
-    "updated_at": "2021-01-28T16:28:20.256Z"
-    },
-    {
-    "id": 1,
-    "name": "Memoir",
-    "published_at": "2021-01-28T16:28:04.980Z",
-    "created_at": "2021-01-28T16:28:03.209Z",
-    "updated_at": "2021-01-28T16:28:05.036Z"
-    }
+      {
+        "id": 2,
+        "name": "Autobiography",
+        "published_at": "2021-01-28T16:28:20.150Z",
+        "created_at": "2021-01-28T16:28:18.249Z",
+        "updated_at": "2021-01-28T16:28:20.256Z"
+      },
+      {
+        "id": 1,
+        "name": "Memoir",
+        "published_at": "2021-01-28T16:28:04.980Z",
+        "created_at": "2021-01-28T16:28:03.209Z",
+        "updated_at": "2021-01-28T16:28:05.036Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 2,
     "title": "Effective Python",
     "subtitle": "59 Specific Ways to Write Better Python",
@@ -741,44 +741,44 @@
     "updated_at": "2021-01-28T16:52:25.955Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611654245/feec/effective-python-cover_s7dahh.jpg",
     "authors": [
-    {
-    "id": 1,
-    "name": "Brett Slatkin",
-    "history": "Brett Slatkin, senior staff software engineer at Google, is engineering lead and co-founder of Google Consumer Surveys. He previously worked on Google App Engine’s Python infrastructure, leveraged Python to manage Google’s enormous server fleet, and used Python to implement Google's system for PubSubHubbub, a protocol he co-created. Slatkin holds a B.S. in computer engineering from Columbia University in the City of New York. He lives in San Francisco.\n\n",
-    "rating": null,
-    "book": 2,
-    "published_at": "2021-01-21T12:30:40.254Z",
-    "created_at": "2021-01-21T12:30:37.771Z",
-    "updated_at": "2021-01-28T10:57:24.478Z"
-    }
+      {
+        "id": 1,
+        "name": "Brett Slatkin",
+        "history": "Brett Slatkin, senior staff software engineer at Google, is engineering lead and co-founder of Google Consumer Surveys. He previously worked on Google App Engine’s Python infrastructure, leveraged Python to manage Google’s enormous server fleet, and used Python to implement Google's system for PubSubHubbub, a protocol he co-created. Slatkin holds a B.S. in computer engineering from Columbia University in the City of New York. He lives in San Francisco.\n\n",
+        "rating": null,
+        "book": 2,
+        "published_at": "2021-01-21T12:30:40.254Z",
+        "created_at": "2021-01-21T12:30:37.771Z",
+        "updated_at": "2021-01-28T10:57:24.478Z"
+      }
     ],
     "tags": [
-    {
-    "id": 10,
-    "name": "Technology",
-    "published_at": "2021-01-28T16:32:08.119Z",
-    "created_at": "2021-01-28T16:32:06.592Z",
-    "updated_at": "2021-01-28T16:32:08.141Z"
-    },
-    {
-    "id": 11,
-    "name": "Programming",
-    "published_at": "2021-01-28T16:32:23.534Z",
-    "created_at": "2021-01-28T16:32:21.847Z",
-    "updated_at": "2021-01-28T16:32:23.554Z"
-    }
+      {
+        "id": 10,
+        "name": "Technology",
+        "published_at": "2021-01-28T16:32:08.119Z",
+        "created_at": "2021-01-28T16:32:06.592Z",
+        "updated_at": "2021-01-28T16:32:08.141Z"
+      },
+      {
+        "id": 11,
+        "name": "Programming",
+        "published_at": "2021-01-28T16:32:23.534Z",
+        "created_at": "2021-01-28T16:32:21.847Z",
+        "updated_at": "2021-01-28T16:32:23.554Z"
+      }
     ],
     "genres": [
-    {
-    "id": 6,
-    "name": " Computer Science",
-    "published_at": "2021-01-28T16:29:12.137Z",
-    "created_at": "2021-01-28T16:29:10.413Z",
-    "updated_at": "2021-01-28T16:29:12.156Z"
-    }
+      {
+        "id": 6,
+        "name": " Computer Science",
+        "published_at": "2021-01-28T16:29:12.137Z",
+        "created_at": "2021-01-28T16:29:10.413Z",
+        "updated_at": "2021-01-28T16:29:12.156Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 8,
     "title": "My Sister, the Serial Killer",
     "subtitle": null,
@@ -799,43 +799,43 @@
     "updated_at": "2021-01-28T16:51:15.851Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611769880/feec/my-sister-serial-killer_asapyi.jpg",
     "authors": [
-    {
-    "id": 9,
-    "name": "Oyinkan Braithwaite",
-    "history": "Oyinkan Braithwaite is a graduate of Creative Writing and Law from Kingston University. Following her degree, she worked as an assistant editor at Kachifo and has been freelancing as a writer and editor since. She has had short stories published in anthologies and has also self published work. In 2014, she was shortlisted as a top ten spoken word artist in the Eko Poetry Slam.\n\nwww.oyinkanbraithwaite.com",
-    "rating": null,
-    "book": 8,
-    "published_at": "2021-01-28T09:35:15.024Z",
-    "created_at": "2021-01-27T17:27:24.270Z",
-    "updated_at": "2021-01-28T12:33:58.006Z"
-    }
+      {
+        "id": 9,
+        "name": "Oyinkan Braithwaite",
+        "history": "Oyinkan Braithwaite is a graduate of Creative Writing and Law from Kingston University. Following her degree, she worked as an assistant editor at Kachifo and has been freelancing as a writer and editor since. She has had short stories published in anthologies and has also self published work. In 2014, she was shortlisted as a top ten spoken word artist in the Eko Poetry Slam.\n\nwww.oyinkanbraithwaite.com",
+        "rating": null,
+        "book": 8,
+        "published_at": "2021-01-28T09:35:15.024Z",
+        "created_at": "2021-01-27T17:27:24.270Z",
+        "updated_at": "2021-01-28T12:33:58.006Z"
+      }
     ],
     "tags": [
-    {
-    "id": 23,
-    "name": "Nigeria",
-    "published_at": "2021-01-28T16:38:38.276Z",
-    "created_at": "2021-01-28T16:38:36.778Z",
-    "updated_at": "2021-01-28T16:38:38.295Z"
-    },
-    {
-    "id": 22,
-    "name": "Satire",
-    "published_at": "2021-01-28T16:38:26.170Z",
-    "created_at": "2021-01-28T16:38:24.461Z",
-    "updated_at": "2021-01-28T16:38:26.195Z"
-    },
-    {
-    "id": 15,
-    "name": "Novel",
-    "published_at": "2021-01-28T16:37:01.562Z",
-    "created_at": "2021-01-28T16:36:59.808Z",
-    "updated_at": "2021-01-28T16:37:01.584Z"
-    }
+      {
+        "id": 23,
+        "name": "Nigeria",
+        "published_at": "2021-01-28T16:38:38.276Z",
+        "created_at": "2021-01-28T16:38:36.778Z",
+        "updated_at": "2021-01-28T16:38:38.295Z"
+      },
+      {
+        "id": 22,
+        "name": "Satire",
+        "published_at": "2021-01-28T16:38:26.170Z",
+        "created_at": "2021-01-28T16:38:24.461Z",
+        "updated_at": "2021-01-28T16:38:26.195Z"
+      },
+      {
+        "id": 15,
+        "name": "Novel",
+        "published_at": "2021-01-28T16:37:01.562Z",
+        "created_at": "2021-01-28T16:36:59.808Z",
+        "updated_at": "2021-01-28T16:37:01.584Z"
+      }
     ],
     "genres": []
-    },
-    {
+  },
+  {
     "id": 1,
     "title": "Big Magic",
     "subtitle": "Creative living beyond fear",
@@ -856,72 +856,72 @@
     "updated_at": "2021-01-28T16:52:10.226Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611739811/feec/big-magic-cover_euc3rh.jpg",
     "authors": [
-    {
-    "id": 2,
-    "name": "Elizabeth Gilbert",
-    "history": "Elizabeth Gilbert is the number one bestselling author of Eat Pray Love and several other international bestselling books of fiction and non-fiction. Her story collection Pilgrims was a finalist for the PEN/Hemingway award; The Last American Man was a finalist for both the National Book Award and the National Book Critics Circle Award. Her follow-up memoir to Eat Pray Love, Committed, became an instant number one New York Times bestseller. She has published two novels, Stern Men and The Signature of All Things, which was long-listed for the Baileys Women's Prize for Fiction and shortlisted for the Wellcome Book Prize. She lives in New Jersey.\n\nwww.elizabethgilbert.com\n@GilbertLiz",
-    "rating": null,
-    "book": 1,
-    "published_at": "2021-01-28T09:34:14.340Z",
-    "created_at": "2021-01-27T09:18:53.344Z",
-    "updated_at": "2021-01-28T11:06:33.868Z"
-    }
+      {
+        "id": 2,
+        "name": "Elizabeth Gilbert",
+        "history": "Elizabeth Gilbert is the number one bestselling author of Eat Pray Love and several other international bestselling books of fiction and non-fiction. Her story collection Pilgrims was a finalist for the PEN/Hemingway award; The Last American Man was a finalist for both the National Book Award and the National Book Critics Circle Award. Her follow-up memoir to Eat Pray Love, Committed, became an instant number one New York Times bestseller. She has published two novels, Stern Men and The Signature of All Things, which was long-listed for the Baileys Women's Prize for Fiction and shortlisted for the Wellcome Book Prize. She lives in New Jersey.\n\nwww.elizabethgilbert.com\n@GilbertLiz",
+        "rating": null,
+        "book": 1,
+        "published_at": "2021-01-28T09:34:14.340Z",
+        "created_at": "2021-01-27T09:18:53.344Z",
+        "updated_at": "2021-01-28T11:06:33.868Z"
+      }
     ],
     "tags": [
-    {
-    "id": 5,
-    "name": "Wellness",
-    "published_at": "2021-01-28T16:31:07.680Z",
-    "created_at": "2021-01-28T16:31:06.061Z",
-    "updated_at": "2021-01-28T16:31:07.699Z"
-    },
-    {
-    "id": 21,
-    "name": "Personal Growth",
-    "published_at": "2021-01-28T16:38:16.449Z",
-    "created_at": "2021-01-28T16:38:14.802Z",
-    "updated_at": "2021-01-28T16:38:16.471Z"
-    },
-    {
-    "id": 18,
-    "name": "Motivation",
-    "published_at": "2021-01-28T16:37:37.167Z",
-    "created_at": "2021-01-28T16:37:35.672Z",
-    "updated_at": "2021-01-28T16:37:37.206Z"
-    },
-    {
-    "id": 20,
-    "name": "Mindfulness",
-    "published_at": "2021-01-28T16:38:03.200Z",
-    "created_at": "2021-01-28T16:38:01.159Z",
-    "updated_at": "2021-01-28T16:38:03.245Z"
-    },
-    {
-    "id": 19,
-    "name": "Self Improvement",
-    "published_at": "2021-01-28T16:37:51.133Z",
-    "created_at": "2021-01-28T16:37:48.299Z",
-    "updated_at": "2021-01-28T16:37:51.177Z"
-    }
+      {
+        "id": 5,
+        "name": "Wellness",
+        "published_at": "2021-01-28T16:31:07.680Z",
+        "created_at": "2021-01-28T16:31:06.061Z",
+        "updated_at": "2021-01-28T16:31:07.699Z"
+      },
+      {
+        "id": 21,
+        "name": "Personal Growth",
+        "published_at": "2021-01-28T16:38:16.449Z",
+        "created_at": "2021-01-28T16:38:14.802Z",
+        "updated_at": "2021-01-28T16:38:16.471Z"
+      },
+      {
+        "id": 18,
+        "name": "Motivation",
+        "published_at": "2021-01-28T16:37:37.167Z",
+        "created_at": "2021-01-28T16:37:35.672Z",
+        "updated_at": "2021-01-28T16:37:37.206Z"
+      },
+      {
+        "id": 20,
+        "name": "Mindfulness",
+        "published_at": "2021-01-28T16:38:03.200Z",
+        "created_at": "2021-01-28T16:38:01.159Z",
+        "updated_at": "2021-01-28T16:38:03.245Z"
+      },
+      {
+        "id": 19,
+        "name": "Self Improvement",
+        "published_at": "2021-01-28T16:37:51.133Z",
+        "created_at": "2021-01-28T16:37:48.299Z",
+        "updated_at": "2021-01-28T16:37:51.177Z"
+      }
     ],
     "genres": [
-    {
-    "id": 4,
-    "name": "Self Help",
-    "published_at": "2021-01-28T16:28:44.723Z",
-    "created_at": "2021-01-28T16:28:43.019Z",
-    "updated_at": "2021-01-28T16:28:44.753Z"
-    },
-    {
-    "id": 1,
-    "name": "Memoir",
-    "published_at": "2021-01-28T16:28:04.980Z",
-    "created_at": "2021-01-28T16:28:03.209Z",
-    "updated_at": "2021-01-28T16:28:05.036Z"
-    }
+      {
+        "id": 4,
+        "name": "Self Help",
+        "published_at": "2021-01-28T16:28:44.723Z",
+        "created_at": "2021-01-28T16:28:43.019Z",
+        "updated_at": "2021-01-28T16:28:44.753Z"
+      },
+      {
+        "id": 1,
+        "name": "Memoir",
+        "published_at": "2021-01-28T16:28:04.980Z",
+        "created_at": "2021-01-28T16:28:03.209Z",
+        "updated_at": "2021-01-28T16:28:05.036Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 20,
     "title": "La voz del conocimiento",
     "subtitle": "Una guia practica para la paz interior",
@@ -942,68 +942,68 @@
     "updated_at": "2021-01-28T16:50:22.650Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611826136/feec/la-voz-del-conocimiento_j5mkty.jpg",
     "authors": [
-    {
-    "id": 15,
-    "name": "Don Miguel Ruiz",
-    "history": "www.miguelruiz.com\n\nDon Miguel Ruiz is a renowned spiritual teacher and internationally bestselling author of the \"Toltec Wisdom Series,\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 12 million copies in the United States, and have been published in 46 languages worldwide.\n\ndon Miguel has spent the past three decades guiding students to personal freedom through his profound insights regarding the nature of human reality. His newest book, THE ACTOR (Ediciones Urano) written with Barbara Emrys was published November 3rd, 2020.\n\nThe youngest of thirteen children, don Miguel Ruiz was born in rural Mexico to parents who were healers and practitioners of ancient Toltec traditions. As a young adult, he graduated from medical school in Mexico City and practiced neurosurgery with his older brother in Tijuana. A near-fatal car crash forever changed the direction of his life, however, causing him to leave medicine and to examine the essential truth about life and humanity. With his mother's help, and through her ancestral teachings, he discovered his own path to awareness, which evolved into a deep understanding of the physical universe and the virtual world of the mind.\n\nCombining Toltec mythology and scientific perspectives, don Miguel has been able to merge ancient wisdom with modern physics and practical common-sense, forging a new philosophy for seekers of truth and personal authenticity. His landmark bestselling book, The Four Agreements, contains practical steps for long-term, personal transformation and has been read by millions around the world.\n\nFirst published in 1997, The Four Agreements has since sold over nine million copies in the United States and seven million worldwide. It has been translated into 46 languages, appeared on the New York Times bestseller for nearly ten years, and was the 36th bestselling book of the decade. Don Miguel is also the author of The Mastery of Love, The Voice of Knowledge, Prayers, and the New York Times bestseller, The Fifth Agreement, a collaboration with his son, don José Ruiz. Each of his books are international bestsellers.\n\nThe wisdom don Miguel has brought to the world has earned him respect around the globe. He has dedicated his life to sharing his message through practical concepts in order to promote transformation and ultimately change lives for the better. Don Miguel is the recipient of numerous recognitions, including a U.S. Air Force 'challenge coin' engraved with \"The Four Agreements.\" He is the recipient of an Honorary Degree in Cultural and Social Education from the American Cultural Institute of Mexico, and referenced as a \"national treasure\" in his native country.",
-    "rating": null,
-    "book": 20,
-    "published_at": "2021-01-28T09:33:57.824Z",
-    "created_at": "2021-01-28T08:55:13.260Z",
-    "updated_at": "2021-01-28T11:02:43.720Z"
-    },
-    {
-    "id": 16,
-    "name": "Janet Mills",
-    "history": "Janet Mills is the founder of Amber-Allen Publishing, and co-author (with don Miguel Ruiz) of the international bestselling \"Toltec Wisdom Series\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 13 million copies in the United States, and have been published in 46 languages worldwide.\n\nMills recently published an online course, \"The Four Agreements for a Better Life,\" for people who want to deepen their understanding and practice of these deceptively simple agreements. Information about the course is available at TheFourAgreements.com.\n\nMills is also the editor of and publisher of Deepak Chopra's international bestselling title \"The Seven Spiritual Laws of Success\" (over 2.5 million copies sold), and the publisher of 11 world-renowned \"Seth\" books by Jane Roberts, which have been credited with launching the New Age movement.\n\nMills credits the books she publishes for inspiring her belief system and transforming her life. Her personal mission is to share universal wisdom in the language of our times, and to help inspire others to live the life of their dreams. She lives in San Rafael, California.",
-    "rating": null,
-    "book": 20,
-    "published_at": "2021-01-28T09:34:35.061Z",
-    "created_at": "2021-01-28T08:55:55.723Z",
-    "updated_at": "2021-01-28T11:02:43.720Z"
-    }
+      {
+        "id": 15,
+        "name": "Don Miguel Ruiz",
+        "history": "www.miguelruiz.com\n\nDon Miguel Ruiz is a renowned spiritual teacher and internationally bestselling author of the \"Toltec Wisdom Series,\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 12 million copies in the United States, and have been published in 46 languages worldwide.\n\ndon Miguel has spent the past three decades guiding students to personal freedom through his profound insights regarding the nature of human reality. His newest book, THE ACTOR (Ediciones Urano) written with Barbara Emrys was published November 3rd, 2020.\n\nThe youngest of thirteen children, don Miguel Ruiz was born in rural Mexico to parents who were healers and practitioners of ancient Toltec traditions. As a young adult, he graduated from medical school in Mexico City and practiced neurosurgery with his older brother in Tijuana. A near-fatal car crash forever changed the direction of his life, however, causing him to leave medicine and to examine the essential truth about life and humanity. With his mother's help, and through her ancestral teachings, he discovered his own path to awareness, which evolved into a deep understanding of the physical universe and the virtual world of the mind.\n\nCombining Toltec mythology and scientific perspectives, don Miguel has been able to merge ancient wisdom with modern physics and practical common-sense, forging a new philosophy for seekers of truth and personal authenticity. His landmark bestselling book, The Four Agreements, contains practical steps for long-term, personal transformation and has been read by millions around the world.\n\nFirst published in 1997, The Four Agreements has since sold over nine million copies in the United States and seven million worldwide. It has been translated into 46 languages, appeared on the New York Times bestseller for nearly ten years, and was the 36th bestselling book of the decade. Don Miguel is also the author of The Mastery of Love, The Voice of Knowledge, Prayers, and the New York Times bestseller, The Fifth Agreement, a collaboration with his son, don José Ruiz. Each of his books are international bestsellers.\n\nThe wisdom don Miguel has brought to the world has earned him respect around the globe. He has dedicated his life to sharing his message through practical concepts in order to promote transformation and ultimately change lives for the better. Don Miguel is the recipient of numerous recognitions, including a U.S. Air Force 'challenge coin' engraved with \"The Four Agreements.\" He is the recipient of an Honorary Degree in Cultural and Social Education from the American Cultural Institute of Mexico, and referenced as a \"national treasure\" in his native country.",
+        "rating": null,
+        "book": 20,
+        "published_at": "2021-01-28T09:33:57.824Z",
+        "created_at": "2021-01-28T08:55:13.260Z",
+        "updated_at": "2021-01-28T11:02:43.720Z"
+      },
+      {
+        "id": 16,
+        "name": "Janet Mills",
+        "history": "Janet Mills is the founder of Amber-Allen Publishing, and co-author (with don Miguel Ruiz) of the international bestselling \"Toltec Wisdom Series\" including \"The Four Agreements,\" \"The Mastery of Love,\" \"The Voice of Knowledge,\" \"The Four Agreements Companion Book,\" \"The Circle of Fire,\" and \"The Fifth Agreement.\" The Toltec Wisdom books have sold over 13 million copies in the United States, and have been published in 46 languages worldwide.\n\nMills recently published an online course, \"The Four Agreements for a Better Life,\" for people who want to deepen their understanding and practice of these deceptively simple agreements. Information about the course is available at TheFourAgreements.com.\n\nMills is also the editor of and publisher of Deepak Chopra's international bestselling title \"The Seven Spiritual Laws of Success\" (over 2.5 million copies sold), and the publisher of 11 world-renowned \"Seth\" books by Jane Roberts, which have been credited with launching the New Age movement.\n\nMills credits the books she publishes for inspiring her belief system and transforming her life. Her personal mission is to share universal wisdom in the language of our times, and to help inspire others to live the life of their dreams. She lives in San Rafael, California.",
+        "rating": null,
+        "book": 20,
+        "published_at": "2021-01-28T09:34:35.061Z",
+        "created_at": "2021-01-28T08:55:55.723Z",
+        "updated_at": "2021-01-28T11:02:43.720Z"
+      }
     ],
     "tags": [
-    {
-    "id": 19,
-    "name": "Self Improvement",
-    "published_at": "2021-01-28T16:37:51.133Z",
-    "created_at": "2021-01-28T16:37:48.299Z",
-    "updated_at": "2021-01-28T16:37:51.177Z"
-    },
-    {
-    "id": 20,
-    "name": "Mindfulness",
-    "published_at": "2021-01-28T16:38:03.200Z",
-    "created_at": "2021-01-28T16:38:01.159Z",
-    "updated_at": "2021-01-28T16:38:03.245Z"
-    },
-    {
-    "id": 21,
-    "name": "Personal Growth",
-    "published_at": "2021-01-28T16:38:16.449Z",
-    "created_at": "2021-01-28T16:38:14.802Z",
-    "updated_at": "2021-01-28T16:38:16.471Z"
-    }
+      {
+        "id": 19,
+        "name": "Self Improvement",
+        "published_at": "2021-01-28T16:37:51.133Z",
+        "created_at": "2021-01-28T16:37:48.299Z",
+        "updated_at": "2021-01-28T16:37:51.177Z"
+      },
+      {
+        "id": 20,
+        "name": "Mindfulness",
+        "published_at": "2021-01-28T16:38:03.200Z",
+        "created_at": "2021-01-28T16:38:01.159Z",
+        "updated_at": "2021-01-28T16:38:03.245Z"
+      },
+      {
+        "id": 21,
+        "name": "Personal Growth",
+        "published_at": "2021-01-28T16:38:16.449Z",
+        "created_at": "2021-01-28T16:38:14.802Z",
+        "updated_at": "2021-01-28T16:38:16.471Z"
+      }
     ],
     "genres": [
-    {
-    "id": 4,
-    "name": "Self Help",
-    "published_at": "2021-01-28T16:28:44.723Z",
-    "created_at": "2021-01-28T16:28:43.019Z",
-    "updated_at": "2021-01-28T16:28:44.753Z"
-    },
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    }
+      {
+        "id": 4,
+        "name": "Self Help",
+        "published_at": "2021-01-28T16:28:44.723Z",
+        "created_at": "2021-01-28T16:28:43.019Z",
+        "updated_at": "2021-01-28T16:28:44.753Z"
+      },
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 10,
     "title": "The Hard Thing About Hard Things",
     "subtitle": "Building a Business When There Are No Easy Answers",
@@ -1024,79 +1024,79 @@
     "updated_at": "2021-01-28T17:01:40.118Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611770367/feec/hard-things-about-hard-things_g0frrg.jpg",
     "authors": [
-    {
-    "id": 11,
-    "name": "Ben Horowitz",
-    "history": "Ben Horowitz is the cofounder and general partner of Andreessen Horowitz, a Silicon Valley–based venture capital firm that invests in entrepreneurs building the next generation of leading technology companies. The firm's investments include Airbnb, GitHub, Facebook, Pinterest, and Twitter. Previously he was cofounder and CEO of Opsware, formerly Loudcloud, which was acquired by Hewlett-Packard for $1.6 billion in 2007. Horowitz writes about his experiences and insights from his career as a computer science student, software engineer, cofounder, CEO, and investor in a blog that is read by nearly ten million people. He has also been featured in the Wall Street Journal, the New York Times, the New Yorker, Fortune, the Economist, and Bloomberg Businessweek, among others. Horowitz lives in the San Francisco Bay Area with his wife, Felicia.",
-    "rating": null,
-    "book": 21,
-    "published_at": "2021-01-28T09:33:21.889Z",
-    "created_at": "2021-01-27T17:55:53.605Z",
-    "updated_at": "2021-01-28T11:31:19.503Z"
-    }
+      {
+        "id": 11,
+        "name": "Ben Horowitz",
+        "history": "Ben Horowitz is the cofounder and general partner of Andreessen Horowitz, a Silicon Valley–based venture capital firm that invests in entrepreneurs building the next generation of leading technology companies. The firm's investments include Airbnb, GitHub, Facebook, Pinterest, and Twitter. Previously he was cofounder and CEO of Opsware, formerly Loudcloud, which was acquired by Hewlett-Packard for $1.6 billion in 2007. Horowitz writes about his experiences and insights from his career as a computer science student, software engineer, cofounder, CEO, and investor in a blog that is read by nearly ten million people. He has also been featured in the Wall Street Journal, the New York Times, the New Yorker, Fortune, the Economist, and Bloomberg Businessweek, among others. Horowitz lives in the San Francisco Bay Area with his wife, Felicia.",
+        "rating": null,
+        "book": 21,
+        "published_at": "2021-01-28T09:33:21.889Z",
+        "created_at": "2021-01-27T17:55:53.605Z",
+        "updated_at": "2021-01-28T11:31:19.503Z"
+      }
     ],
     "tags": [
-    {
-    "id": 8,
-    "name": "Management",
-    "published_at": "2021-01-28T16:31:43.955Z",
-    "created_at": "2021-01-28T16:31:42.317Z",
-    "updated_at": "2021-01-28T16:31:43.985Z"
-    },
-    {
-    "id": 7,
-    "name": "Leadership",
-    "published_at": "2021-01-28T16:31:31.470Z",
-    "created_at": "2021-01-28T16:31:29.983Z",
-    "updated_at": "2021-01-28T16:31:31.500Z"
-    },
-    {
-    "id": 10,
-    "name": "Technology",
-    "published_at": "2021-01-28T16:32:08.119Z",
-    "created_at": "2021-01-28T16:32:06.592Z",
-    "updated_at": "2021-01-28T16:32:08.141Z"
-    },
-    {
-    "id": 25,
-    "name": " Entrepreneurship",
-    "published_at": "2021-01-28T16:39:02.166Z",
-    "created_at": "2021-01-28T16:39:00.309Z",
-    "updated_at": "2021-01-28T16:39:02.183Z"
-    }
+      {
+        "id": 8,
+        "name": "Management",
+        "published_at": "2021-01-28T16:31:43.955Z",
+        "created_at": "2021-01-28T16:31:42.317Z",
+        "updated_at": "2021-01-28T16:31:43.985Z"
+      },
+      {
+        "id": 7,
+        "name": "Leadership",
+        "published_at": "2021-01-28T16:31:31.470Z",
+        "created_at": "2021-01-28T16:31:29.983Z",
+        "updated_at": "2021-01-28T16:31:31.500Z"
+      },
+      {
+        "id": 10,
+        "name": "Technology",
+        "published_at": "2021-01-28T16:32:08.119Z",
+        "created_at": "2021-01-28T16:32:06.592Z",
+        "updated_at": "2021-01-28T16:32:08.141Z"
+      },
+      {
+        "id": 25,
+        "name": " Entrepreneurship",
+        "published_at": "2021-01-28T16:39:02.166Z",
+        "created_at": "2021-01-28T16:39:00.309Z",
+        "updated_at": "2021-01-28T16:39:02.183Z"
+      }
     ],
     "genres": [
-    {
-    "id": 4,
-    "name": "Self Help",
-    "published_at": "2021-01-28T16:28:44.723Z",
-    "created_at": "2021-01-28T16:28:43.019Z",
-    "updated_at": "2021-01-28T16:28:44.753Z"
-    },
-    {
-    "id": 7,
-    "name": "Business",
-    "published_at": "2021-01-28T16:29:24.460Z",
-    "created_at": "2021-01-28T16:29:22.839Z",
-    "updated_at": "2021-01-28T16:29:24.489Z"
-    },
-    {
-    "id": 3,
-    "name": "Biography",
-    "published_at": "2021-01-28T16:28:33.008Z",
-    "created_at": "2021-01-28T16:28:31.311Z",
-    "updated_at": "2021-01-28T16:28:33.042Z"
-    },
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    }
+      {
+        "id": 4,
+        "name": "Self Help",
+        "published_at": "2021-01-28T16:28:44.723Z",
+        "created_at": "2021-01-28T16:28:43.019Z",
+        "updated_at": "2021-01-28T16:28:44.753Z"
+      },
+      {
+        "id": 7,
+        "name": "Business",
+        "published_at": "2021-01-28T16:29:24.460Z",
+        "created_at": "2021-01-28T16:29:22.839Z",
+        "updated_at": "2021-01-28T16:29:24.489Z"
+      },
+      {
+        "id": 3,
+        "name": "Biography",
+        "published_at": "2021-01-28T16:28:33.008Z",
+        "created_at": "2021-01-28T16:28:31.311Z",
+        "updated_at": "2021-01-28T16:28:33.042Z"
+      },
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 4,
     "title": " The Lean Startup",
     "subtitle": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
@@ -1117,44 +1117,44 @@
     "updated_at": "2021-01-28T17:03:49.004Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611741004/feec/the-lean-startup-cover_dmwrjj.jpg",
     "authors": [
-    {
-    "id": 5,
-    "name": "Eric Reis",
-    "history": "Eric Reis is an entrepreneur and author of the popular blog Startup Lessons Learned. He co-founded and served as CTO of IMVU, his third startup,  and has had plenty of startup failures along the way. He is a frequent speaker at business events, has advised a number of startups, large companies, and venture capital firms on business and product strategy, and is an Entrepreneur-in-Residence at Harvard Business School. His Lean Startup methodology has been written about in the New York Times, the Wall Street Journal, the Harvard Business Review, the Huffington Post, and many blogs. He lives in San Francisco.",
-    "rating": null,
-    "book": 17,
-    "published_at": "2021-01-28T09:34:20.959Z",
-    "created_at": "2021-01-27T09:45:20.219Z",
-    "updated_at": "2021-01-28T11:29:58.728Z"
-    }
+      {
+        "id": 5,
+        "name": "Eric Reis",
+        "history": "Eric Reis is an entrepreneur and author of the popular blog Startup Lessons Learned. He co-founded and served as CTO of IMVU, his third startup,  and has had plenty of startup failures along the way. He is a frequent speaker at business events, has advised a number of startups, large companies, and venture capital firms on business and product strategy, and is an Entrepreneur-in-Residence at Harvard Business School. His Lean Startup methodology has been written about in the New York Times, the Wall Street Journal, the Harvard Business Review, the Huffington Post, and many blogs. He lives in San Francisco.",
+        "rating": null,
+        "book": 17,
+        "published_at": "2021-01-28T09:34:20.959Z",
+        "created_at": "2021-01-27T09:45:20.219Z",
+        "updated_at": "2021-01-28T11:29:58.728Z"
+      }
     ],
     "tags": [
-    {
-    "id": 10,
-    "name": "Technology",
-    "published_at": "2021-01-28T16:32:08.119Z",
-    "created_at": "2021-01-28T16:32:06.592Z",
-    "updated_at": "2021-01-28T16:32:08.141Z"
-    },
-    {
-    "id": 25,
-    "name": " Entrepreneurship",
-    "published_at": "2021-01-28T16:39:02.166Z",
-    "created_at": "2021-01-28T16:39:00.309Z",
-    "updated_at": "2021-01-28T16:39:02.183Z"
-    }
+      {
+        "id": 10,
+        "name": "Technology",
+        "published_at": "2021-01-28T16:32:08.119Z",
+        "created_at": "2021-01-28T16:32:06.592Z",
+        "updated_at": "2021-01-28T16:32:08.141Z"
+      },
+      {
+        "id": 25,
+        "name": " Entrepreneurship",
+        "published_at": "2021-01-28T16:39:02.166Z",
+        "created_at": "2021-01-28T16:39:00.309Z",
+        "updated_at": "2021-01-28T16:39:02.183Z"
+      }
     ],
     "genres": [
-    {
-    "id": 7,
-    "name": "Business",
-    "published_at": "2021-01-28T16:29:24.460Z",
-    "created_at": "2021-01-28T16:29:22.839Z",
-    "updated_at": "2021-01-28T16:29:24.489Z"
-    }
+      {
+        "id": 7,
+        "name": "Business",
+        "published_at": "2021-01-28T16:29:24.460Z",
+        "created_at": "2021-01-28T16:29:22.839Z",
+        "updated_at": "2021-01-28T16:29:24.489Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 19,
     "title": "Fifth Avenue Style",
     "subtitle": "A Designer's New York Apartment",
@@ -1175,37 +1175,37 @@
     "updated_at": "2021-01-28T16:45:04.995Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611825581/feec/fifth-avenue-style_wknvht.jpg",
     "authors": [
-    {
-    "id": 18,
-    "name": "Howard Slatkin",
-    "history": "In his first book, FIFTH AVENUE STYLE, international interior designer Howard Slatkin shares an intimate look at his New York apartment with sumptuous photographs by Tria Giovan. His deeply personal text shares his inspirations, ideas as well as his philosophy and advice for creating one's dream home and for living beautifully. In his candid essays on each room, he also reveals mistakes he made and what he would do differently. hoping to help readers avoid similar problems. Chapters range from entertaining both in the dining room and the kitchen, and also has chapters on bathrooms and bedrooms and all the service rooms such as closets, pantries, flower room and laundry room-----and of course the main rooms. A feast for the eyes and the mind, the book was four years in the making.\n\nHoward Slatkin has been an interior designer for over twenty years and has worked on residences around the world. His work has been profiled in Architectural Digest, Town & Country, House & Garden, Vogue and The New York Times. He is co-founder of Slatkin & Co. and Torie & Howard (organic candy.)",
-    "rating": null,
-    "book": 19,
-    "published_at": "2021-01-28T09:34:28.142Z",
-    "created_at": "2021-01-28T09:16:36.866Z",
-    "updated_at": "2021-01-28T10:55:19.741Z"
-    }
+      {
+        "id": 18,
+        "name": "Howard Slatkin",
+        "history": "In his first book, FIFTH AVENUE STYLE, international interior designer Howard Slatkin shares an intimate look at his New York apartment with sumptuous photographs by Tria Giovan. His deeply personal text shares his inspirations, ideas as well as his philosophy and advice for creating one's dream home and for living beautifully. In his candid essays on each room, he also reveals mistakes he made and what he would do differently. hoping to help readers avoid similar problems. Chapters range from entertaining both in the dining room and the kitchen, and also has chapters on bathrooms and bedrooms and all the service rooms such as closets, pantries, flower room and laundry room-----and of course the main rooms. A feast for the eyes and the mind, the book was four years in the making.\n\nHoward Slatkin has been an interior designer for over twenty years and has worked on residences around the world. His work has been profiled in Architectural Digest, Town & Country, House & Garden, Vogue and The New York Times. He is co-founder of Slatkin & Co. and Torie & Howard (organic candy.)",
+        "rating": null,
+        "book": 19,
+        "published_at": "2021-01-28T09:34:28.142Z",
+        "created_at": "2021-01-28T09:16:36.866Z",
+        "updated_at": "2021-01-28T10:55:19.741Z"
+      }
     ],
     "tags": [
-    {
-    "id": 12,
-    "name": "Interior Design",
-    "published_at": "2021-01-28T16:36:25.761Z",
-    "created_at": "2021-01-28T16:36:24.155Z",
-    "updated_at": "2021-01-28T16:36:25.782Z"
-    }
+      {
+        "id": 12,
+        "name": "Interior Design",
+        "published_at": "2021-01-28T16:36:25.761Z",
+        "created_at": "2021-01-28T16:36:24.155Z",
+        "updated_at": "2021-01-28T16:36:25.782Z"
+      }
     ],
     "genres": [
-    {
-    "id": 5,
-    "name": "Non-fiction",
-    "published_at": "2021-01-28T16:28:59.786Z",
-    "created_at": "2021-01-28T16:28:58.278Z",
-    "updated_at": "2021-01-28T16:28:59.811Z"
-    }
+      {
+        "id": 5,
+        "name": "Non-fiction",
+        "published_at": "2021-01-28T16:28:59.786Z",
+        "created_at": "2021-01-28T16:28:58.278Z",
+        "updated_at": "2021-01-28T16:28:59.811Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 15,
     "title": "From Blood and Ash",
     "subtitle": "Blood And Ash Series Book 1",
@@ -1226,44 +1226,44 @@
     "updated_at": "2021-01-28T16:47:22.171Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611824669/feec/from-blood-and-ash_hs4leq.jpg",
     "authors": [
-    {
-    "id": 17,
-    "name": "Jennifer L. Armentrout",
-    "history": "# 1 NEW YORK TIMES, # 1 International, and USA TODAY Bestselling author Jennifer L. Armentrout lives in West Virginia. She also writes under the name J. Lynn. When she's not hard at work writing, she spends her time, reading, working out, watching zombie movies, and pretending to write. She shares her home with her husband, his K-9 partner named Diesel and her hyper Border Jack Apollo, and a slew of farm animals that include alpacas, goats, and sheep.",
-    "rating": null,
-    "book": 15,
-    "published_at": "2021-01-28T09:34:44.307Z",
-    "created_at": "2021-01-28T09:00:43.270Z",
-    "updated_at": "2021-01-28T12:34:27.120Z"
-    }
+      {
+        "id": 17,
+        "name": "Jennifer L. Armentrout",
+        "history": "# 1 NEW YORK TIMES, # 1 International, and USA TODAY Bestselling author Jennifer L. Armentrout lives in West Virginia. She also writes under the name J. Lynn. When she's not hard at work writing, she spends her time, reading, working out, watching zombie movies, and pretending to write. She shares her home with her husband, his K-9 partner named Diesel and her hyper Border Jack Apollo, and a slew of farm animals that include alpacas, goats, and sheep.",
+        "rating": null,
+        "book": 15,
+        "published_at": "2021-01-28T09:34:44.307Z",
+        "created_at": "2021-01-28T09:00:43.270Z",
+        "updated_at": "2021-01-28T12:34:27.120Z"
+      }
     ],
     "tags": [
-    {
-    "id": 13,
-    "name": "Fantasy",
-    "published_at": "2021-01-28T16:36:44.374Z",
-    "created_at": "2021-01-28T16:36:37.697Z",
-    "updated_at": "2021-01-28T16:36:44.406Z"
-    },
-    {
-    "id": 15,
-    "name": "Novel",
-    "published_at": "2021-01-28T16:37:01.562Z",
-    "created_at": "2021-01-28T16:36:59.808Z",
-    "updated_at": "2021-01-28T16:37:01.584Z"
-    }
+      {
+        "id": 13,
+        "name": "Fantasy",
+        "published_at": "2021-01-28T16:36:44.374Z",
+        "created_at": "2021-01-28T16:36:37.697Z",
+        "updated_at": "2021-01-28T16:36:44.406Z"
+      },
+      {
+        "id": 15,
+        "name": "Novel",
+        "published_at": "2021-01-28T16:37:01.562Z",
+        "created_at": "2021-01-28T16:36:59.808Z",
+        "updated_at": "2021-01-28T16:37:01.584Z"
+      }
     ],
     "genres": [
-    {
-    "id": 9,
-    "name": "Romance novel",
-    "published_at": "2021-01-28T16:29:51.147Z",
-    "created_at": "2021-01-28T16:29:49.545Z",
-    "updated_at": "2021-01-28T16:29:51.171Z"
-    }
+      {
+        "id": 9,
+        "name": "Romance novel",
+        "published_at": "2021-01-28T16:29:51.147Z",
+        "created_at": "2021-01-28T16:29:49.545Z",
+        "updated_at": "2021-01-28T16:29:51.171Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 17,
     "title": "The Startup Way",
     "subtitle": "How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth",
@@ -1284,29 +1284,29 @@
     "updated_at": "2021-01-28T17:04:55.554Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611825120/feec/the-startup-way_znfqbe.jpg",
     "authors": [
-    {
-    "id": 5,
-    "name": "Eric Reis",
-    "history": "Eric Reis is an entrepreneur and author of the popular blog Startup Lessons Learned. He co-founded and served as CTO of IMVU, his third startup,  and has had plenty of startup failures along the way. He is a frequent speaker at business events, has advised a number of startups, large companies, and venture capital firms on business and product strategy, and is an Entrepreneur-in-Residence at Harvard Business School. His Lean Startup methodology has been written about in the New York Times, the Wall Street Journal, the Harvard Business Review, the Huffington Post, and many blogs. He lives in San Francisco.",
-    "rating": null,
-    "book": 17,
-    "published_at": "2021-01-28T09:34:20.959Z",
-    "created_at": "2021-01-27T09:45:20.219Z",
-    "updated_at": "2021-01-28T11:29:58.728Z"
-    }
+      {
+        "id": 5,
+        "name": "Eric Reis",
+        "history": "Eric Reis is an entrepreneur and author of the popular blog Startup Lessons Learned. He co-founded and served as CTO of IMVU, his third startup,  and has had plenty of startup failures along the way. He is a frequent speaker at business events, has advised a number of startups, large companies, and venture capital firms on business and product strategy, and is an Entrepreneur-in-Residence at Harvard Business School. His Lean Startup methodology has been written about in the New York Times, the Wall Street Journal, the Harvard Business Review, the Huffington Post, and many blogs. He lives in San Francisco.",
+        "rating": null,
+        "book": 17,
+        "published_at": "2021-01-28T09:34:20.959Z",
+        "created_at": "2021-01-27T09:45:20.219Z",
+        "updated_at": "2021-01-28T11:29:58.728Z"
+      }
     ],
     "tags": [],
     "genres": [
-    {
-    "id": 7,
-    "name": "Business",
-    "published_at": "2021-01-28T16:29:24.460Z",
-    "created_at": "2021-01-28T16:29:22.839Z",
-    "updated_at": "2021-01-28T16:29:24.489Z"
-    }
+      {
+        "id": 7,
+        "name": "Business",
+        "published_at": "2021-01-28T16:29:24.460Z",
+        "created_at": "2021-01-28T16:29:22.839Z",
+        "updated_at": "2021-01-28T16:29:24.489Z"
+      }
     ]
-    },
-    {
+  },
+  {
     "id": 18,
     "title": "Treasure",
     "subtitle": "Hush Collection",
@@ -1327,40 +1327,40 @@
     "updated_at": "2021-01-28T17:05:41.934Z",
     "image_url": "https://res.cloudinary.com/quidaxengineering/image/upload/v1611825288/feec/treasure_lccloa.jpg",
     "authors": [
-    {
-    "id": 9,
-    "name": "Oyinkan Braithwaite",
-    "history": "Oyinkan Braithwaite is a graduate of Creative Writing and Law from Kingston University. Following her degree, she worked as an assistant editor at Kachifo and has been freelancing as a writer and editor since. She has had short stories published in anthologies and has also self published work. In 2014, she was shortlisted as a top ten spoken word artist in the Eko Poetry Slam.\n\nwww.oyinkanbraithwaite.com",
-    "rating": null,
-    "book": 8,
-    "published_at": "2021-01-28T09:35:15.024Z",
-    "created_at": "2021-01-27T17:27:24.270Z",
-    "updated_at": "2021-01-28T12:33:58.006Z"
-    }
+      {
+        "id": 9,
+        "name": "Oyinkan Braithwaite",
+        "history": "Oyinkan Braithwaite is a graduate of Creative Writing and Law from Kingston University. Following her degree, she worked as an assistant editor at Kachifo and has been freelancing as a writer and editor since. She has had short stories published in anthologies and has also self published work. In 2014, she was shortlisted as a top ten spoken word artist in the Eko Poetry Slam.\n\nwww.oyinkanbraithwaite.com",
+        "rating": null,
+        "book": 8,
+        "published_at": "2021-01-28T09:35:15.024Z",
+        "created_at": "2021-01-27T17:27:24.270Z",
+        "updated_at": "2021-01-28T12:33:58.006Z"
+      }
     ],
     "tags": [
-    {
-    "id": 23,
-    "name": "Nigeria",
-    "published_at": "2021-01-28T16:38:38.276Z",
-    "created_at": "2021-01-28T16:38:36.778Z",
-    "updated_at": "2021-01-28T16:38:38.295Z"
-    },
-    {
-    "id": 17,
-    "name": "Thriller",
-    "published_at": "2021-01-28T16:37:23.719Z",
-    "created_at": "2021-01-28T16:37:22.040Z",
-    "updated_at": "2021-01-28T16:37:23.754Z"
-    },
-    {
-    "id": 16,
-    "name": "Short Stories",
-    "published_at": "2021-01-28T16:37:11.915Z",
-    "created_at": "2021-01-28T16:37:10.292Z",
-    "updated_at": "2021-01-28T16:37:11.943Z"
-    }
+      {
+        "id": 23,
+        "name": "Nigeria",
+        "published_at": "2021-01-28T16:38:38.276Z",
+        "created_at": "2021-01-28T16:38:36.778Z",
+        "updated_at": "2021-01-28T16:38:38.295Z"
+      },
+      {
+        "id": 17,
+        "name": "Thriller",
+        "published_at": "2021-01-28T16:37:23.719Z",
+        "created_at": "2021-01-28T16:37:22.040Z",
+        "updated_at": "2021-01-28T16:37:23.754Z"
+      },
+      {
+        "id": 16,
+        "name": "Short Stories",
+        "published_at": "2021-01-28T16:37:11.915Z",
+        "created_at": "2021-01-28T16:37:10.292Z",
+        "updated_at": "2021-01-28T16:37:11.943Z"
+      }
     ],
     "genres": []
-    }
-    ]
+  }
+]

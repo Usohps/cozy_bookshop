@@ -1,49 +1,37 @@
-import React from "react";
-import { useEffect, useContext } from "react";
-import Bookcard from "../Component/home/books/Bookcard";
-import { BooksContext } from "../context/BooksContext";
-import { CartContext } from "../context/CartContext";
-import Cart from "../Component/cart";
+import React from 'react';
+import { useEffect, useContext } from 'react';
+import Bookcard from '../Component/home/books/Bookcard';
+import { BooksContext } from '../context/BooksContext';
+import { CartContext } from '../context/CartContext';
+import Cart from '../Component/cart';
 // import { useHref } from "react-router-dom";
 function SearchPage() {
-  const { setSearchedBooks, query, setAllBooks } = useContext(BooksContext);
-  const { cartIsOpen } = useContext(CartContext);
+  const { searchedBooks } = useContext(BooksContext);
+  // const { cartIsOpen } = useContext(CartContext);
   // let history = useHref();
   // the code updates the DOM on any changes causing a re-render
-  useEffect(() => {
-    getBooks();
-  }, []);
+  // useEffect(() => {
+  //   getBooks();
+  // }, []);
 
-  const getBooks = async () => {
-    setAllBooks();
-    setTimeout(() => {}, 2000);
-  };
+  // const getBooks = async () => {
+  //   setAllBooks();
+  //   setTimeout(() => {}, 2000);
+  // };
   // if (searchedBooks.length === 0 && query === null) {
   //   history.push("/");
   // }
-  if (query !== null && setSearchedBooks.length > 2) {
-    return (
-      <div>
-        {cartIsOpen && <Cart />}
-        <div>
-          <div className="books-wrapper">
-            {setSearchedBooks.map((book, i) => {
-              return <Bookcard book={book} key={i} />;
-            })}
+  return (
+    <div className='grid grid-cols-1 mt-28 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-2 lg:gap-8'>
+      {searchedBooks?.map((book) => {
+        return (
+          <div key={book.id}>
+            <Bookcard key={book.id} book={book} />
           </div>
-          <div className="title-section">
-            {query.length > 0 ? (
-              <h4 className="title">
-                {setSearchedBooks.length} results found for {query}
-              </h4>
-            ) : (
-              <h4 className="title">Start typing to search</h4>
-            )}
-          </div>
-        </div>
-      </div>
-    );
-  }
+        );
+      })}
+    </div>
+  );
 }
 
 export default SearchPage;
