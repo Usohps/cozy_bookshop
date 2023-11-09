@@ -22,12 +22,6 @@ function Navbar() {
     );
   };
 
-  // const onchangeInputTerm = (e) => {
-  //   if (window.location.pathname !== '/search') {
-  //     navigate.push('/search');
-  //   }
-  //   search(searchTerm);
-  // };
   const [toggleMobile, setToggleMobile] = useState(false);
   const toggleSearch = () => {
     setToggleMobile(!toggleMobile);
