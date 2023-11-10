@@ -16,10 +16,14 @@ function Navbar() {
 
   const onSearchedBooksChanged = () => {
     navigate("/search");
-
+    
     setSearchedBooks(
       books?.filter((book) => book?.title.toLowerCase().includes(searchTerm))
-    );
+      );
+      if(searchTerm.length <= 0){
+        navigate("/")
+      }
+      return
   };
 
   const [toggleMobile, setToggleMobile] = useState(false);
