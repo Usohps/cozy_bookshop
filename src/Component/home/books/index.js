@@ -1,9 +1,5 @@
 import React from 'react';
-// import Data from "../../../db.json";
 import Bookcard from './Bookcard';
-import { useContext } from 'react';
-import { BooksContext } from '../../../context/BooksContext';
-
 function Books({ book }) {
   return (
     <>
