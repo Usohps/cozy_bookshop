@@ -18,7 +18,7 @@ function Navbar() {
     navigate("/search");
     
     setSearchedBooks(
-      books?.filter((book) => book?.title.toLowerCase().includes(searchTerm))
+      books?.filter((book) => book?.title.toLowerCase().includes(searchTerm.toLocaleLowerCase()))
       );
       if(searchTerm.length <= 0){
         navigate("/")
