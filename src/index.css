@@ -2,6 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
+.spinner {
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  margin: 3rem auto;
+}
+
+.spinner{
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6px solid #aea266;
+  border-color: #aea266 transparent #aea266 transparent;
+  animation: spinner 1.2s linear infinite;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
 
 .animation {
     animation: animate 0.5s ease-in-out;

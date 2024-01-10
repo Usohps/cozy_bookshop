@@ -5,7 +5,7 @@ export const BooksContext = createContext();
 
 const BooksContextProvider = (props) => {
   const [searchedBooks, setSearchedBooks] = useState([]);
-  console.log(searchedBooks);
+  // console.log(searchedBooks);
 
   const [books, setBooks] = useState(Jsonfile);
 

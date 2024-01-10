@@ -1,6 +1,6 @@
 import React from "react";
 import BookIcon from "..//assets/books.7481a139.svg";
-import BigLogo from "..//assets/bigLogo.svg";
+// import BigLogo from "..//assets/bigLogo.svg";
 import { BsCart2 } from "react-icons/bs";
 import { BiSearch } from "react-icons/bi";
 import { useState, useContext } from "react";
@@ -34,10 +34,11 @@ function Navbar() {
     <>
       <div className="w-full shadow-2xl z-10 bg-white flex items-center justify-between px-2 py-4 border-b-2 fixed top-0 left-0">
         <div className="w-64 md:text-center">
-          <img src={BigLogo} alt="biglogo" />
-          <p className="pl-2 text-transparent text-sm bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 font-extrabold">
-            Cozy~Dev
+          {/* <img src={BigLogo} alt="biglogo" /> */}
+          <p className="pl-2 text-transparent text-lg bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 font-extrabold">
+            Cozy~Bookshop
           </p>
+          <span className="pl-2 text-transparent text-sm bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 font-extrabold">A flimzy bookshop</span>
         </div>
         <div className=" hidden md:flex justify-center items-center border w-[400px] ">
           <input
